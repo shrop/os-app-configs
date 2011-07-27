@@ -57,6 +57,7 @@ System Preferences
 * Turn on "Remote Login"  
 * Show "displays" options in the "menu bar"  
 * Configure Cisco VPN  
+  * Show VPN connection status in the menu bar  
 * Turn off discoverable mode in Bluetooth settings  
 * Turn off "Show Bluetooth status in the menu bar"
 * Turn on "Secondary click" in "Mouse" settings  
@@ -95,6 +96,8 @@ Finder
 * Show these items on the desktop: all    
 * New Finder windows show: ~/Dropbox  
 * Sidebar: Check "Hard disks"  
+* Uncheck "Show warnings before changing an extension"  
+* Uncheck "Show warnings before emptying the Trash"
 * When performing a search: Search the Current Folder  
 * TotalFinder:  
  * Turn on The Asepis Feature
