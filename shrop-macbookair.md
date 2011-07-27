@@ -95,7 +95,17 @@ Finder
 
 * Show these items on the desktop: all    
 * New Finder windows show: ~/Dropbox  
-* Sidebar: Check "Hard disks"  
+* Sidebar:
+ * Check "Hard disks"  
+ * Check myhomefolder  
+ * Uncheck "AirDrop"  
+ * Uncheck "All My Files" 
+ * Uncheck "Documents"  
+ * Uncheck "Movies"  
+ * Uncheck "Music"  
+ * Uncheck "Pictures"  
+ * Uncheck "iDisk"   
+ * Sidebar order for favorites should be: Dropbox, myhomefolder, Desktop, Downloads and Applications    
 * Uncheck "Show warnings before changing an extension"  
 * Uncheck "Show warnings before emptying the Trash"
 * When performing a search: Search the Current Folder  

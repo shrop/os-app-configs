@@ -78,32 +78,26 @@ System Preferences
 
 Alfred
 
-* Setup Dropbox sync  
-* Setup Command + Spacebar for action and turn this key combo off for Spotlight  
-* Turn on "Enable Clipboard History"  
-* Hide hat on Alfred window  
-* Default Results  
- * Extras: Folders  
-
-Colloquy  
-
-* Setup connection to shropnet.dyndns.org (See 1 Password for configuration info for the connection)
-* Change Appearance style to "Flat"
-* Mute all notification sounds  
-* Show event bubble option  
- * ...only if Colloquy is in the background  
- * ...and keep on screen until activated  
-
-Evernote  
-
-* Turn off the "Find in Evernote" short cut key as it conflicts with full screen mode in Lion  
-* After a clip: Uncheck "Bring the new note to the front"  
-
-Finder  
-
-* Show these items on the desktop: all    
-* New Finder windows show: ~/Dropbox  
-* Sidebar: Check "Hard disks"  
+* Sidebar:
+ * Check "Hard disks"  
+ * Check myhomefolder  
+ * Uncheck "AirDrop"  
+ * Uncheck "All My Files" 
+ * Uncheck "Documents"  
+ * Uncheck "Movies"  
+ * Uncheck "Music"  
+ * Uncheck "Pictures"  
+ * Sidebar:
+  * Check "Hard disks"  
+  * Check myhomefolder  
+  * Uncheck "AirDrop"  
+  * Uncheck "All My Files" 
+  * Uncheck "Documents"  
+  * Uncheck "Movies"  
+  * Uncheck "Music"  
+  * Uncheck "Pictures" 
+  * Uncheck "iDisk"   
+  * Sidebar order for favorites should be: Dropbox, myhomefolder, Desktop, Downloads and Applications
 * Uncheck "Show warnings before changing an extension"  
 * Uncheck "Show warnings before emptying the Trash"  
 * When performing a search: Search the Current Folder  
