@@ -66,10 +66,10 @@ System Preferences
 * Set F5 to show desktop in "Mission Control" settings  
 * Setup Time Machine  
 * Mail, Contacts and Calendars  
- * Add mdshrops@gmail.com Google Chat to iChat  
- * Add mdshrops2 AIM account to iChat  
- * Add mdshrops@uncc.edu Exchange account for mail, contacts and calendars  
- * Add mdshrops@shropnet.net Google Apps account for mail and calendars  
+ * Add gmail account Google Chat to iChat  
+ * Add AIM account to iChat  
+ * Add work Exchange account for mail, contacts and calendars  
+ * Add Googla Apps account for mail and calendars  
 
 1Password
 
