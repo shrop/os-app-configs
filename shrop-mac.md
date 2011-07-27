@@ -82,7 +82,7 @@ Alfred
 * Setup Dropbox sync  
 * Setup Command + Spacebar for action and turn this key combo off for Spotlight  
 * Turn on "Enable Clipboard History"  
-* Hide hate on Alfred window  
+* Hide hat on Alfred window  
 * Default Results  
  * Extras: Folders  
 

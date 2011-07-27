@@ -77,14 +77,14 @@ Alfred
 * Setup Dropbox sync  
 * Setup Command + Spacebar for action and turn this key combo off for Spotlight  
 * Turn on "Enable Clipboard History"  
-* Hide hate on Alfred window  
+* Hide hat on Alfred window  
 * Default Results  
  * Extras: Folders  
 
 Colloquy  
 
 * Setup connection to shropnet.dyndns.org (See 1 Password for configuration info for the connection)
-* Change Appearance style to "Flat"
+* Change Appearance style to "Fiat"
 * Mute all notification sounds  
 * Show event bubble option  
  * ...only if Colloquy is in the background  
