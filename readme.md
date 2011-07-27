@@ -1,0 +1,1 @@
+Each file contains the computer's list of apps and configurations the way @shrop likes it!
