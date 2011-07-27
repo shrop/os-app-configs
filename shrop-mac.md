@@ -149,7 +149,7 @@ Hazel
 Homebrew  
 
 * Install in /usr/local 
-* Make sure /usr/local is owned by mdshrops:staff 
+* Make sure /usr/local is owned by myuser:staff 
 * Install drush  
 * Install git  
 * Install nmap  
