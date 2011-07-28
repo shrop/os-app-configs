@@ -14,6 +14,7 @@ Growl
 HardwareGrowler  
 Hazel  
 Homebrew  
+iLife '11  
 iStat Menus  
 iWork '09  
 MAMP  
