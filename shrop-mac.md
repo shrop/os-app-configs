@@ -20,6 +20,7 @@ Homebrew
 iLife '11  
 iStat Menus  
 iWork '09  
+MailServe for Lion  
 MAMP  
 Marked  
 MindNode Pro  
@@ -169,6 +170,10 @@ Mail
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
+
+MailServe for Lion  
+
+* TODO  
 
 MAMP  
 
