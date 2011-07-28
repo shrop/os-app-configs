@@ -168,7 +168,7 @@ iStats Menu
 * Set combined the following order of items  
  * Menubar Items: CPU  
  * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors  
-* Set the red date icon and show time as hh:mmAM/PM  
+* Turn on the date/time display and set the red date icon and show time as hh:mmAM/PM  
 
 Mail  
 
