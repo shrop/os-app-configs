@@ -46,7 +46,7 @@ VZAccess Manager
 General configurations
 
 * Setup suaritadmin account  
-* Configure AD (its.uncc.edu) for authentication  
+* Configure AD for authentication  
 * Add Dropbox folder to the Dock  
 
 System Preferences
@@ -130,7 +130,8 @@ FireFox
 GrabBox  
 
 * Setup the Dropbox Public folder per instructions  
-* Settings:  
+* Preferences: 
+ * Check "Automaticall start GrabBox on login"   
  * Check "Use random filenames"  
  * Check "Make random filenames longer"  
  * URL Shortener: bit.ly  
