@@ -6,6 +6,7 @@ Casper
 Casper Suite  
 Citrix Receiver  
 Colloquy  
+ColorSchemer Studio  
 Dropbox    
 FireFox  
 Google Chrome  
