@@ -192,6 +192,8 @@ OmniFocus
 
 Safari  
 
+* Setup home page to "topsites:"  
+* Uncheck "Open 'safe' files after downloading"  
 * Evernote Clipper in the Bookmark bar
 * SafariOmnibar - https://github.com/rs/SafariOmnibar  
 
