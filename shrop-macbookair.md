@@ -7,6 +7,7 @@ Casper Suite
 Citrix Receiver  
 Colloquy  
 ColorSchemer Studio  
+CoRD  
 Dropbox    
 FireFox  
 Google Chrome  
@@ -200,6 +201,13 @@ OmniFocus
 * Setup OmniSync Server  
 * Turn off "Due Soon" from displaying in the dock icon  
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
+
+Ruby Gem Installs  
+
+* Install svn2git for SVN to git repo conversions  
+ * sudo gem install svn2git  
+* Install gas for easy git author manipulations  
+ * sudo gem install gas  
 
 Safari  
 

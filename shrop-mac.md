@@ -3,11 +3,13 @@
 1Password  
 Alfred  
 Apple Remote Desktop  
+Bru Client
 Casper    
 Casper Suite  
 Citrix Receiver    
 Colloquy  
 ColorSchemer Studio  
+CoRD    
 Dropbox  
 Evernote  
 FireFox  
@@ -195,6 +197,13 @@ OmniFocus
 * Turn on the Mail rule to create OmniFocus actions:  
  * Add mdshrops@uncc.edu and mdshrops@shropnet.net to the allowed email addresses  
  * Archive processed messages in the [Gmail]Trash folder  
+ 
+Ruby Gem Installs  
+
+* Install svn2git for SVN to git repo conversions  
+ * sudo gem install svn2git  
+* Install gas for easy git author manipulations  
+ * sudo gem install gas  
 
 Safari  
 
