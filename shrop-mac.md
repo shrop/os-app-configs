@@ -226,6 +226,7 @@ Snippets
 Sound Studio  
 
 * Set color preset to "Green on black"  
+* Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
 
 Terminal  
 
