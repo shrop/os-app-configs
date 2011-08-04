@@ -82,6 +82,30 @@ System Preferences
 
 Alfred
 
+* Setup Dropbox sync  
+* Setup Command + Spacebar for action and turn this key combo off for Spotlight  
+* Turn on "Enable Clipboard History"  
+* Hide hat on Alfred window  
+* Default Results  
+ * Extras: Folders  
+* Set the theme to "Lion" in the Appearance preferences area  
+
+Colloquy  
+
+* Setup connection to shropnet.dyndns.org (See 1 Password for configuration info for the connection)
+* Change Appearance style to "Fiat"
+* Mute all notification sounds  
+* Show event bubble option  
+ * ...only if Colloquy is in the background  
+ * ...and keep on screen until activated
+
+Dropbox
+
+* Setup "Selective Sync" as necessary  
+* Change icon to black and white  
+
+Finder
+
 * Sidebar:
  * Check "Hard disks"  
  * Check myhomefolder  
@@ -111,12 +135,7 @@ Alfred
  * Tweaks  
   * Check "Hide icon in Menu Bar"  
   * Check "Show Cut&Pate buttons in Context Menus"  
-  * Check "Allow path copying from Context Menus"  
-
-Dropbox
-
-* Setup "Selective Sync" as necessary  
-* Change icon to black and white  
+  * Check "Allow path copying from Context Menus"
 
 FireFox  
 

@@ -85,6 +85,7 @@ Alfred
 * Hide hat on Alfred window  
 * Default Results  
  * Extras: Folders  
+* Set the theme to "Lion" in the Appearance preferences area  
 
 Colloquy  
 
@@ -93,7 +94,12 @@ Colloquy
 * Mute all notification sounds  
 * Show event bubble option  
  * ...only if Colloquy is in the background  
- * ...and keep on screen until activated  
+ * ...and keep on screen until activated   
+ 
+ Dropbox
+
+ * Setup "Selective Sync" as necessary  
+ * Change icon to black and white
 
 Finder  
 
@@ -120,11 +126,6 @@ Finder
   * Check "Hide icon in Menu Bar"  
   * Check "Show Cut&Pate buttons in Context Menus"  
   * Check "Allow path copying from Context Menus"  
-
-Dropbox
-
-* Setup "Selective Sync" as necessary  
-* Change icon to black and white  
 
 FireFox  
 
