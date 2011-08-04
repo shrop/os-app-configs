@@ -183,7 +183,12 @@ Mail
 
 MailServe for Lion  
 
-* TODO
+* Add a Smart Host to the Outgoing preferences  
+ * Set "Masquerade As" to "shropnet.net"  
+ * Set "Smart Host Name" to "smtp.gmail.com:587"  
+ * Check "Enable SASL Authentication"  
+ * Check "Require SSL"  
+ * Set the User-ID and Password fields using gmail credentials
 
 MAMP  
 
