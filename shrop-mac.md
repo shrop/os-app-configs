@@ -13,6 +13,7 @@ CoRD
 Dropbox  
 Evernote  
 FireFox  
+Fluid  
 Google Chrome  
 GrabBox  
 Growl  

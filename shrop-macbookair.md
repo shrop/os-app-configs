@@ -10,6 +10,7 @@ ColorSchemer Studio
 CoRD  
 Dropbox    
 FireFox  
+Fluid  
 Google Chrome  
 GrabBox  
 Growl  
