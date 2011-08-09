@@ -24,6 +24,7 @@ MailServe for Lion
 MAMP  
 Marked     
 MindNode Pro  
+MoneyWell  
 MPlayerX  
 OmniFocus  
 OmniGraffle Pro  
