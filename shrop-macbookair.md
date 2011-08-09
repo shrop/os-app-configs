@@ -222,8 +222,10 @@ Safari
 * Setup home page to "topsites:"  
 * Uncheck "Open 'safe' files after downloading"  
 * Remove all existing bookmarks in the Bookmark Bar  
-* Evernote Clipper in the Bookmark Bar  
-* Evernote web app (old one) in the Bookmark Bar  
+* Add bookmarks to the Bookmark Bar in the following order
+ * Save to Instapaper (Read Later)  
+ * Evernote Clipper (Clip to Evernote)  
+ * Old Evernote web app (Evernote)  
 * SafariOmnibar - https://github.com/rs/SafariOmnibar  
 
 Sizeup  
