@@ -35,7 +35,7 @@ Picturesque
 Pixelmator  
 Reeder  
 Sequel Pro  
-Server Admin Tools 10.7  
+Server Admin Tools  
 SizeUp  
 Skype  
 Snippets  

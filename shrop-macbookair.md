@@ -33,6 +33,7 @@ Picturesque
 Pixelmator  
 Reeder  
 Sequel Pro  
+Server Admin Tools  
 SizeUp  
 Skype  
 Snippets  
