@@ -284,6 +284,7 @@ Textmate
 Tower  
 
 * Install the Command Line Tool under the Integration section of the Tower menu  
+* Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
 
 Twitterific  
 
