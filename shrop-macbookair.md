@@ -46,7 +46,13 @@ Transmit
 Twitterific  
 VirtualHostX  
 VMWare Fusion  
-VZAccess Manager  
+VZAccess Manager (waiting on new version)
+Widgets  
+* STocks  
+* Weather  
+* Calendar  
+* Clock  
+* Delivery Status  
 
 **Configurations**  
 General configurations

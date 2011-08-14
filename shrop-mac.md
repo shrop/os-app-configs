@@ -48,6 +48,12 @@ Transmit
 Twitterific  
 VirtualHostX  
 VMWare Fusion  
+Widgets  
+* STocks  
+* Weather  
+* Calendar  
+* Clock  
+* Delivery Status  
 
 **Configurations**  
 General configurations
