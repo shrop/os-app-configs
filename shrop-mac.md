@@ -108,7 +108,6 @@ Dropbox
 Finder
 
 * Sidebar:
- * Check "Hard disks"  
  * Check myhomefolder  
  * Uncheck "AirDrop"  
  * Uncheck "All My Files" 
