@@ -5,6 +5,7 @@ Alfred
 Casper    
 Casper Suite  
 Citrix Receiver  
+ClickToPlugin  
 Colloquy  
 ColorSchemer Studio  
 CoRD  

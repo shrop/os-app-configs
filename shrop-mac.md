@@ -6,7 +6,8 @@ Apple Remote Desktop
 Bru Client
 Casper    
 Casper Suite  
-Citrix Receiver    
+Citrix Receiver  
+ClickToPlugin    
 Colloquy  
 ColorSchemer Studio  
 CoRD    
