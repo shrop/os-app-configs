@@ -10,6 +10,7 @@ ColorSchemer Studio
 CoRD  
 Dropbox    
 FireFox  
+Flash  
 Fluid  
 Google Chrome  
 GrabBox  
@@ -17,7 +18,8 @@ Growl
 HardwareGrowler  
 Hazel  
 Homebrew  
-iLife '11  
+iLife '11 
+ImageOptim   
 iStat Menus  
 iWork '09  
 MailServe for Lion  

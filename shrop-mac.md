@@ -12,6 +12,7 @@ ColorSchemer Studio
 CoRD    
 Dropbox  
 Evernote  
+Flash  
 FireFox  
 Fluid  
 Google Chrome  
@@ -21,6 +22,7 @@ HardwareGrowler
 Hazel  
 Homebrew  
 iLife '11  
+ImageOptim  
 iStat Menus  
 iWork '09  
 MailServe for Lion  
