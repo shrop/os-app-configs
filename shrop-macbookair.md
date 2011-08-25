@@ -38,6 +38,7 @@ Reeder
 Sequel Pro  
 Server Admin Tools  
 SizeUp  
+Skitch  
 Skype  
 Snippets  
 Sound Studio  
@@ -237,6 +238,10 @@ Safari
  * Evernote Clipper (Clip to Evernote)  
  * Evernote web app (Evernote)  
 * SafariOmnibar - https://github.com/rs/SafariOmnibar  
+
+Skitch  
+
+* Add Skitch to login items so it launches at login  
 
 Sizeup  
 
