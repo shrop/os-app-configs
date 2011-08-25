@@ -178,6 +178,7 @@ Homebrew
 * Install git  
 * Install nmap  
 * Install svn  
+* Install wget  
 
 iCal
 
