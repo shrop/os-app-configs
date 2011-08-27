@@ -17,7 +17,6 @@ Flash
 FireFox  
 Fluid  
 Google Chrome  
-GrabBox  
 Growl  
 HardwareGrowler    
 Hazel  

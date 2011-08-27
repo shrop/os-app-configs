@@ -13,8 +13,7 @@ Dropbox
 FireFox  
 Flash  
 Fluid  
-Google Chrome  
-GrabBox  
+Google Chrome   
 Growl  
 HardwareGrowler  
 Hazel  
