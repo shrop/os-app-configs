@@ -83,6 +83,8 @@ System Preferences
  * Add AIM account to iChat  
  * Add work Exchange account for mail, contacts and calendars  
  * Add Googla Apps account for mail and calendars  
+* Mission Control  
+ * Uncheck "Automatically rearrange based on most recent use"
 
 1Password
 
