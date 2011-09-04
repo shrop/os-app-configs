@@ -127,7 +127,7 @@ Finder
  * Uncheck "Music"  
  * Uncheck "Pictures"  
  * Sidebar:
-  * Check "Hard disks"  
+  * Uncheck "Hard disks"  
   * Check myhomefolder  
   * Uncheck "AirDrop"  
   * Uncheck "All My Files" 

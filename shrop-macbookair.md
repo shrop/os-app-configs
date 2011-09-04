@@ -120,8 +120,9 @@ Finder
 * Show these items on the desktop: all    
 * New Finder windows show: ~/Dropbox  
 * Sidebar: 
+ * Uncheck "Hard disks"  
  * Check myhomefolder  
- * Uncheck "AirDrop"  
+ * Check "AirDrop"  
  * Uncheck "All My Files" 
  * Uncheck "Documents"  
  * Uncheck "Movies"  
