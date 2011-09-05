@@ -25,6 +25,7 @@ iLife '11
 ImageOptim  
 iStat Menus  
 iWork '09  
+Lingon 3  
 MailServe for Lion  
 MAMP  
 Marked  
