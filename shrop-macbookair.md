@@ -2,6 +2,7 @@
 **Apps**  
 1Password
 Alfred  
+Caffeine  
 Casper    
 Casper Suite  
 Citrix Receiver  
