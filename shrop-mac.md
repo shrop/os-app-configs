@@ -3,6 +3,7 @@
 1Password  
 Alfred  
 Apple Remote Desktop  
+Art Text 2  
 Bru Client
 Casper    
 Casper Suite  
