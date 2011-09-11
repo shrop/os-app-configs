@@ -2,6 +2,7 @@
 **Apps**  
 1Password
 Alfred  
+Art Text 2  
 Caffeine  
 Casper    
 Casper Suite  
@@ -51,7 +52,7 @@ Transmit
 Twitterific  
 VirtualHostX  
 VMWare Fusion  
-VZAccess Manager (waiting on new version)
+VZAccess Manager  
 Widgets  
 * STocks  
 * Weather  
