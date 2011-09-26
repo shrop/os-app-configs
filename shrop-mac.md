@@ -46,6 +46,7 @@ Skype
 Snippets  
 Sound Studio  
 Spotify  
+SQL Developer  
 TextMate  
 TotalFinder  
 Tower  
