@@ -52,6 +52,7 @@ Twitterific
 VirtualHostX  
 VMWare Fusion  
 VZAccess Manager  
+Xcode
 Widgets  
 * STocks  
 * Weather  
@@ -65,6 +66,7 @@ General configurations
 * Setup suaritadmin account  
 * Configure AD for authentication  
 * Add Dropbox folder to the Dock  
+* Configure Time Machine   
 
 System Preferences
 
@@ -250,6 +252,7 @@ Ruby Gem Installs
 Safari  
 
 * Setup home page to "topsites:"  
+* Add the home page icon to the toolbar
 * Uncheck "Open 'safe' files after downloading"  
 * Remove all existing bookmarks in the Bookmark Bar  
 * Add bookmarks to the Bookmark Bar in the following order
@@ -263,15 +266,19 @@ Safari
     * Evernote
     * Instafari
 
-Skitch  
-
-* Add Skitch to login items so it launches at login  
-
 Sizeup  
 
 * Set Screen Edge Margins to 25px  
 * Set Partition to 25px  
-* Turn off Send Window Center resize to function   
+* Turn off Send Window Center resize to function
+
+Skitch  
+
+* Add Skitch to login items so it launches at login  
+
+Snippets  
+ 
+* Setup symlink "~/Library/Application Support/Snippets" to point to "~/Dropbox/Library/Application Support/Snippets"
 
 Sound Studio  
 
@@ -302,7 +309,7 @@ Textmate
 Tower  
 
 * Install the Command Line Tool under the Integration section of the Tower menu  
-* set FileMerge as the default diff/merge tool
+* Set FileMerge as the default diff/merge tool
 * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
 
 Twitterific  
