@@ -278,7 +278,7 @@ Skitch
 
 Snippets  
  
-* Setup symlink "~/Library/Application Support/Snippets" to point to "~/Dropbox/Library/Application Support/Snippets"
+* To sync your snippets over Dropbox, open Snippets app while holding the option key. Then select the library to point to ~/Dropbox/Library/Application Support/Snippets/Snippets.xml.
 
 Sound Studio  
 
