@@ -18,7 +18,7 @@ Growl
 HardwareGrowler  
 Hazel  
 Homebrew  
-iLife '11 
+iLife '11  
 ImageOptim   
 iStat Menus  
 iTerm  
@@ -51,7 +51,6 @@ Transmit
 Twitterific  
 VirtualHostX  
 VMWare Fusion  
-VZAccess Manager  
 Xcode
 Widgets  
 * STocks  

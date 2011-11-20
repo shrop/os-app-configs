@@ -26,7 +26,7 @@ ImageOptim
 iStat Menus  
 iWork '09  
 Lingon 3  
-MacTracker
+MacTracker  
 MailServe for Lion  
 MAMP  
 Marked  
