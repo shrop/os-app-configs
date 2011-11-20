@@ -245,7 +245,7 @@ OmniFocus
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
 * Turn on the Mail rule to create OmniFocus actions:  
  * Add mdshrops@uncc.edu and mdshrops@shropnet.net to the allowed email addresses  
- * Archive processed messages in the [Gmail]Trash folder  
+ * Archive processed messages in the [Gmail]Trash folder  
  
 Ruby Gem Installs  
 
@@ -322,4 +322,4 @@ Twitterific
 * Keep Timeline Scrolled to Top   
 * Applications Icons: Do not show in the Menubar  
 * Turn off "Play Notification Sound"  
-t* Bookmarking: Instapaper
+* Bookmarking: Instapaper
