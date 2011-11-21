@@ -4,22 +4,26 @@
 Alfred  
 Art Text 2  
 Caffeine  
+Casper  
 Casper Suite  
 Citrix Receiver  
 Colloquy  
 ColorSchemer Studio  
 CoRD  
-Dropbox    
+Dropbox  
+Evernote    
 FireFox  
 Flash  
 Fluid  
+GarageBand  
 Google Chrome  
 Growl  
 HardwareGrowler  
 Hazel  
 Homebrew  
-iLife '11  
 ImageOptim   
+iMovie  
+iPhoto  
 iStat Menus  
 iTerm  
 iWork '09  
@@ -65,15 +69,14 @@ General configurations
 * Setup suaritadmin account  
 * Configure AD for authentication  
 * Add Dropbox folder to the Dock  
-* Configure Time Machine   
 
 System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
-* Turn on "Screen Sharing" for "Administrators" and "mdshrops"  
 * Turn on "Show Remote Management status in menu bar"  
-* Turn on "Remote Login"  
+* Turn on "Remote Management"
+* Turn on "Remote Login" for all users  
 * Show "displays" options in the "menu bar"  
 * Configure Cisco VPN  
   * Show VPN connection status in the menu bar  
@@ -106,7 +109,12 @@ Alfred
 * Hide hat on Alfred window  
 * Default Results  
  * Extras: Folders  
- * Search Scope: Add "/Sysatem/Library/CoreServices"
+ * Search Scopes: 
+   * /Applications
+   * /Developer/Applications
+   * /Library/PreferencePanes
+   * /System/Library/CoreServices
+   * /System/Library/PreferencePanes
 * Set the theme to "Lion" in the Appearance preferences area  
 
 Caffeine
@@ -141,6 +149,7 @@ Finder
  * Uncheck "Movies"  
  * Uncheck "Music"  
  * Uncheck "Pictures"   
+ * Uncheck the computer under Devices  
  * Sidebar order for favorites should be: Dropbox, myhomefolder, Desktop, Downloads, Applications and AirDrop  
 * Uncheck "Show warnings before changing an extension"  
 * Uncheck "Show warnings before emptying the Trash"
@@ -161,7 +170,7 @@ Growl
 * Uncheck "Rollup automatically displays"
 * Set the display to Smoke and to show in the upper right corner  
 * Add HardwareGrowler to login items  
-* Add iOS 4 Notification style. Use white.
+* Add iOS 5 Notification style. Use white. - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
 
 Hazel  
 
@@ -253,11 +262,7 @@ Safari
 * Setup home page to "topsites:"  
 * Add the home page icon to the toolbar
 * Uncheck "Open 'safe' files after downloading"  
-* Remove all existing bookmarks in the Bookmark Bar  
-* Add bookmarks to the Bookmark Bar in the following order
- * Save to Instapaper (Read Later)  
- * Evernote Clipper (Clip to Evernote)  
- * Evernote web app (Evernote)  
+* Remove all existing bookmarks in the Bookmark Bar   
 * Install SafariOmnibar - https://github.com/rs/SafariOmnibar  
 * Extensions:  
     * 1Password
@@ -287,7 +292,7 @@ Sound Studio
 Textmate  
 
 * Setup symlink "~/Library/Application Support/TextMate" to point to "~/Dropbox/Library/Application Support/TextMate"  
- * Includes Bundles: GetBundles and PHP Drupal
+ * Includes Bundles: GetBundles, Marked and PHP Drupal
  * Includes the Missing Drawer for TextMate: https://github.com/jezdez/textmate-missingdrawer  
 * Turn on line numbers in the gutter  
 * Set tabsize to 2 (soft Tabs: Spaces)  
