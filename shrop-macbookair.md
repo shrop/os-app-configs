@@ -74,8 +74,9 @@ System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
-* Turn on "Show Remote Management status in menu bar"  
-* Turn on "Remote Management"
+* Turn on "Remote Management" for "suaritadmin"
+  * Check on all remote management options
+  * Turn on "Show Remote Management status in menu bar"  
 * Turn on "Remote Login" for all users  
 * Show "displays" options in the "menu bar"  
 * Configure Cisco VPN  

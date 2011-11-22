@@ -78,8 +78,7 @@ System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
-* Turn on "Screen Sharing" for "Administrators" and "mdshrops"  
-* Turn on "Show Remote Management status in menu bar"  
+* Turn on "Screen Sharing" for "mdshrops"  
 * Turn on "Remote Login" for all users
 * Show "displays" options in the "menu bar"  
 * Turn off the Wifi menu bar icon  
