@@ -75,13 +75,14 @@ General configurations
 
 * Setup admin and user accounts   
 * Add Dropbox folder to the Dock 
+* Setup symlink "~/Downloads" to point to "~/Dropbox/Downloads"  
 
 System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
 * Turn off screen-savers
-* Set "Energy Saver" to defaults and then set the computer to restart after a power failure
+* Set "Energy Saver" to defaults and then set the computer to start up automatically after a power failure
 * Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
 * Turn on "Screen Sharing" for "Administrators"
 * Turn on "Remote Login" for mdshrops
@@ -282,6 +283,8 @@ Textmate
     * PATH = "/usr/bin:/bin:/usr/sbin:/sbin"
     * TM_DRUPAL_VERSION = "5,6 or 7"
     * TM_DRUPAL_API = "http://drupalcontrib.org"
+* Missing Drawer
+    * Set the terminal application to "iTerm"
 
 Tower  
 

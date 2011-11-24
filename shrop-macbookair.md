@@ -69,6 +69,7 @@ General configurations
 * Setup suaritadmin account  
 * Configure AD for authentication  
 * Add Dropbox folder to the Dock  
+* Setup symlink "~/Downloads" to point to "~/Dropbox/Downloads"  
 
 System Preferences
 
@@ -313,6 +314,8 @@ Textmate
   * PATH = "/usr/bin:/bin:/usr/sbin:/sbin"
   * TM_DRUPAL_VERSION = "5,6 or 7"
   * TM_DRUPAL_API = "http://drupalcontrib.org"
+* Missing Drawer
+  * Set the terminal application to "iTerm"
   
 Tower  
 
