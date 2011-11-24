@@ -78,6 +78,9 @@ System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
+* Turn off screen-savers
+* Set "Energy Saver" to defaults and then set the computer to restart after a power failure
+* Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
 * Turn on "Screen Sharing" for "mdshrops"  
 * Turn on "Remote Login" for all users
 * Show "displays" options in the "menu bar"  

@@ -74,6 +74,9 @@ System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
+* Turn off screen-savers
+* Set "Energy Saver" to defaults
+* Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
 * Turn on "Remote Management" for "suaritadmin"
   * Check on all remote management options
   * Turn on "Show Remote Management status in menu bar"  
