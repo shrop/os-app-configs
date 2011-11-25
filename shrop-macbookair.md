@@ -175,7 +175,11 @@ Growl
 * Uncheck "Rollup automatically displays"
 * Set the display to Smoke and to show in the upper right corner  
 * Add HardwareGrowler to login items  
-* Add iOS 5 Notification style. Use white. - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
+* Add iOS 5 Notification styles (black and white) - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
+* Add the Boxcar plugin and set the the default notification
+  * Only push when computer is idle for 5 minutes
+  * Set the default style to the iOS 5 Notification Style (white)
+  * Set the prefix for notification to be the computer name
 
 Hazel  
 

@@ -80,7 +80,9 @@ System Preferences
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
 * Turn off screen-savers
-* Set "Energy Saver" to defaults and then set the computer to start up automatically after a power failure
+* Set "Energy Saver" to defaults
+  * Set the computer to never go to sleep
+  * Set the computer to start up automatically after a power failure
 * Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
 * Turn on "Screen Sharing" for "mdshrops"  
 * Turn on "Remote Login" for all users
@@ -173,7 +175,11 @@ Growl
 * Uncheck "Rollup automatically displays"
 * Set the display to Smoke and to show in the upper right corner  
 * Add HardwareGrowler to login items  
-* Add iOS 5 Notification style. Use white. - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
+* Add iOS 5 Notification styles (black and white) - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
+* Add the Boxcar plugin and set the the default notification
+  * Only push when computer is idle for 5 minutes
+  * Set the default style to the iOS 5 Notification Style (white)
+  * Set the prefix for notification to be the computer name
 
 Hazel  
 
