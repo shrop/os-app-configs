@@ -46,11 +46,13 @@ Perian
 Picturesque  
 Pixelmator  
 Reeder  
+Remote Helper HD  
 Sequel Pro  
 SizeUp  
 Skitch  
 Skype  
-Snippets 
+Snippets  
+Sound Flower  
 Sound Studio  
 Spotify  
 TextMate  
