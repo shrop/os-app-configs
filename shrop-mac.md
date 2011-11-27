@@ -139,6 +139,18 @@ Dropbox
 * Setup "Selective Sync" as necessary  
 * Change icon to black and white
 
+Evernote
+
+* Preferences
+  * Evernote Helper (check the following)
+    * Keep Evernote Helper running in the background when I quit Evernote
+    * Show Elephant in Menubar
+    * Start the Evernote Helper when I log in to my computer
+  * Set the "Inbox" notebook as the default location for clipped notes
+  * After clipping 
+    * Uncheck "Bring the clip to the front"
+    * Uncheck "Bounce the dock icon once"
+
 Finder  
 
 * Show these items on the desktop: all    
