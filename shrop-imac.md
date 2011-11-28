@@ -70,7 +70,8 @@ Widgets
 * Weather  
 * Calendar  
 * Clock  
-* Delivery Status  
+* Delivery Status 
+ * Check the option "Send notifications to Delivery Touch"
 
 **Configurations**  
 General configurations
