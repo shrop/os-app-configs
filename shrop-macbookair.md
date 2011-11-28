@@ -316,31 +316,36 @@ Sound Studio
 Textmate  
 
 * Setup symlink "~/Library/Application Support/TextMate" to point to "~/Dropbox/Library/Application Support/TextMate"  
- * Includes Bundles: GetBundles, Marked and PHP Drupal
- * Includes the Missing Drawer for TextMate: https://github.com/jezdez/textmate-missingdrawer  
+* Includes Bundles: GetBundles and PHP Drupal
+* Includes the Missing Drawer for TextMate: https://github.com/jezdez/textmate-missingdrawer  
 * Turn on line numbers in the gutter  
 * Set tabsize to 2 (soft Tabs: Spaces)  
 * General Preferences:  
- * Check "Hightlight current line"  
- * Check "Don't create untitled documents"  
+  * Check "Hightlight current line"  
+  * Check "Don't create untitled documents"  
 * Fonts & Colors Preferences:  
- * Set the theme to "Tomorrow"  
+  * Set the theme to "Tomorrow"  
 * Software Update Preferences  
- * Watch For: Cutting-Edge  
+  * Watch For: Cutting-Edge  
 * Advanced  
- * Shell Variables  
-  * TM_ORGANIZATION_NAME = "SUAR IT"  
-  * PATH = "/usr/bin:/bin:/usr/sbin:/sbin"
-  * TM_DRUPAL_VERSION = "5,6 or 7"
-  * TM_DRUPAL_API = "http://drupalcontrib.org"
+  * Shell Variables: 
+    * TM_ORGANIZATION_NAME = "shropNET"  
+    * PATH = "/usr/bin:/bin:/usr/sbin:/sbin"
+    * TM_DRUPAL_VERSION = "5,6 or 7"
+    * TM_DRUPAL_API = "http://drupalcontrib.org"
 * Missing Drawer
-  * Set the terminal application to "iTerm"
+    * Set the terminal application to "iTerm"
   
 Tower  
 
 * Install the Command Line Tool under the Integration section of the Tower menu  
 * Set FileMerge as the default diff/merge tool
 * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
+
+Transmit
+
+* Preferences
+  * Set "Windows open with" to the Dropbox folder
 
 Twitterific  
 

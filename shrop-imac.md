@@ -315,6 +315,11 @@ Tower
 * Set FileMerge as the default diff/merge tool
 * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
 
+Transmit
+
+* Preferences
+  * Set "Windows open with" to the Dropbox folder
+
 Twitterific  
 
 * Show Growl notifications for mentions and messages 
