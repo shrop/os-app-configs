@@ -105,6 +105,7 @@ System Preferences
  * Add Google Apps account for mail, calendars and iChat
 * Mission Control  
  * Uncheck "Automatically rearrange based on most recent use"
+* Add Dashboard to login items
 
 1Password
 
