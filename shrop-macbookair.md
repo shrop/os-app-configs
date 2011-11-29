@@ -188,12 +188,10 @@ Growl
 * Set Growl to send notifications to rollup after 600 seconds of inactivity 
 * Set the display to show in the upper right corner  
 * Add HardwareGrowler to login items  
-* Add iOS 5 Notification styles (black and white) - http://skyjohn.deviantart.com/art/iOS-5-Notification-Growl-267924372
-  * Set white as the Growl default
-* Set Smoke as the default notification style for Alfred app
-* Add the Boxcar plugin and set the the default notification
+* Add iOS5 notification style and set it as the default
+* Add the Boxcar plugin
   * Only push when computer is idle for 5 minutes
-  * Set the default style to the iOS 5 Notification Style (white)
+  * Set the default style to the iOS5 style
   * Set the prefix for notification to be the computer name
 
 Hazel  
