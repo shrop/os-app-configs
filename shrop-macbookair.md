@@ -17,6 +17,7 @@ Flash
 Fluid  
 GarageBand  
 Google Chrome  
+Gradient  
 Growl  
 HardwareGrowler  
 Hazel  
