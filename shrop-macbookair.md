@@ -245,6 +245,7 @@ iTerm
 Mail  
 
 * Remove the Apple Mail rule  
+* Set accounts to be checked every hour for mail rules processing
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
