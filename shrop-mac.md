@@ -244,7 +244,9 @@ iTerm
 
 Mail  
 
-* Remove the Apple Mail rule  
+* Add standard list of Mail rules
+    * This computer processes all mail rules needed for all of my email accounts since it runs 24/7
+* Set accounts to be checked every 15 minutes for mail rules processing
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
