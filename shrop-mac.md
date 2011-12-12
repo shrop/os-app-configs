@@ -250,6 +250,7 @@ Mail
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
+* Add All Mail folders to the Favorites Bar  
 
 MailServe for Lion  
 
