@@ -354,6 +354,7 @@ Transmit
 
 Twitterific  
 
+* Setup accounts: chardug, drupalgoodies, rockyriver, shrop and suarit
 * Show Growl notifications for mentions and messages 
 * set Appearance to "Light"
 * Keep Timeline Scrolled to Top   
