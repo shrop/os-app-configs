@@ -250,6 +250,7 @@ Mail
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
+* Add All Mail folders to the Favorites Bar  
 
 MailServe for Lion  
 
@@ -350,6 +351,7 @@ Transmit
 
 Twitterific  
 
+* Setup accounts: chardug, drupalgoodies, rockyriver, shrop and suarit
 * Show Growl notifications for mentions and messages 
 * set Appearance to "Light"
 * Keep Timeline Scrolled to Top   
