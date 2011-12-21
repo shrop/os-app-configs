@@ -306,6 +306,7 @@ Sizeup
 * Set Screen Edge Margins to 25px  
 * Set Partition to 25px  
 * Turn off Send Window Center resize to function
+* Set "Send Window Center" to resize to relative to screen size: 50% x 80%
 
 Skitch  
 

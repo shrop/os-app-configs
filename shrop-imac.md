@@ -259,7 +259,7 @@ OmniFocus
 * Setup OmniSync Server  
 * Turn off "Due Soon" from displaying in the dock icon  
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
-
+
 Safari
 
 * Setup home page to "topsites:"  
@@ -278,6 +278,7 @@ Sizeup
 * Set Screen Edge Margins to 25px  
 * Set Partition to 25px  
 * Turn off Send Window Center resize to function
+* Set "Send Window Center" to resize to relative to screen size: 75% x 90%
 
 Snippets  
  
