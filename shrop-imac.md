@@ -22,6 +22,7 @@ FireFox
 Flip4Mac    
 Fluid  
 GarageBand  
+Google Chrome  
 Google Earth  
 Growl  
 HandBrake  s
@@ -176,6 +177,10 @@ Finder
 FireFox  
 
 * Set the home page to "https://citrix.uncc.edu"  
+
+Google Chrome
+
+* Set Google Chrome as the default browser
 
 Growl  
 

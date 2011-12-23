@@ -188,6 +188,10 @@ Go2Shell
 
 * Set iTerm2 to open with Go2Shell:
 	* $ open -a Go2Shell --args config
+	
+Google Chrome
+
+* Set Google Chrome as the default browser
 
 Growl  
 
