@@ -181,6 +181,7 @@ FireFox
 Google Chrome
 
 * Set Google Chrome as the default browser
+* Sign in to to my Google Apps account for syncing
 
 Growl  
 
