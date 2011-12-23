@@ -18,6 +18,7 @@ Flash
 FireFox  
 Fluid  
 GarageBand  
+Go2Shell  
 Google Voice And Video Setup  
 Google Chrome  
 Gradient  
@@ -182,6 +183,11 @@ Finder
 FireFox  
 
 * Set the home page to "https://citrix.uncc.edu"  
+
+Go2Shell
+
+* Set iTerm2 to open with Go2Shell:
+	* $ open -a Go2Shell --args config
 
 Growl  
 
