@@ -4,4 +4,4 @@ Restore from iCloud
 
 Tweetbot
 
-* Setup accounts: chardug, drupalgoodies, rockyriver, shrop and suarit
+* Setup accounts: bestofmrsshrop, chardug, drupalgoodies, rockyriver, shrop and suarit
