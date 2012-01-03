@@ -4,4 +4,4 @@ Restore from iCloud
 
 Twitterific
 
-* Setup accounts: chardug, drupalgoodies, rockyriver, shrop and suarit
+* Setup accounts: bestofmrsshrop, chardug, drupalgoodies, rockyriver, shrop and suarit
