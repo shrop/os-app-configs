@@ -73,6 +73,7 @@ General configurations
 * Configure AD for authentication  
 * Add Dropbox folder to the Dock  
 * Setup symlink "~/Downloads" to point to "~/Dropbox/Downloads"  
+* Remove all folders from the Dock
 
 System Preferences
 
@@ -91,6 +92,10 @@ System Preferences
 * Turn off discoverable mode in Bluetooth settings  
 * Turn off "Show Bluetooth status in the menu bar"
 * Turn on "Secondary click" in "Mouse" settings  
+* TouchPad settings:
+  * Turn on "Secondary click"
+  * Turn on "Three finger drag"
+  * Turn on "App Exposé"
 * Mail, Contacts and Calendars  
  * Add gmail account Google Chat to iChat  
  * Add AIM account to iChat  
@@ -123,6 +128,11 @@ Alfred
    * /Library/PreferencePanes
    * /System/Library/CoreServices
    * /System/Library/PreferencePanes
+   * /Volumes/dvol1
+   * /Volumes/mdshrops
+   * /Volumes/SUARIT Share
+* System Commands
+  * Turn on "eject" for "Local Mounted Volumes"
 * Set the theme to "Lion" in the Appearance preferences area  
 
 Caffeine
