@@ -77,6 +77,7 @@ General configurations
 * Configure AD for authentication  
 * Add Dropbox folder to the Dock
 * Setup symlink "~/Downloads" to point to "~/Dropbox/Downloads"  
+* Remove all folders from the Dock
 
 System Preferences
 
@@ -93,6 +94,10 @@ System Preferences
 * Turn off the Wifi menu bar icon  
 * Turn off discoverable mode in Bluetooth settings  
 * Turn on "Secondary click" in "Mouse" settings  
+* TouchPad settings:
+  * Turn on "Secondary click"
+  * Turn on "Three finger drag"
+  * Turn on "App Exposé"
 * Set F5 to show desktop in "Mission Control" settings  
 * Setup Time Machine  
 * Mail, Contacts and Calendars  
@@ -127,6 +132,11 @@ Alfred
     * /Library/PreferencePanes
     * /System/Library/CoreServices
     * /System/Library/PreferencePanes
+    * /Volumes/dvol1
+    * /Volumes/mdshrops
+    * /Volumes/SUARIT Share
+* System Commands
+  * Turn on "eject" for "Local Mounted Volumes"
 * Set the theme to "Lion" in the Appearance preferences area  
 
 Colloquy  
