@@ -78,6 +78,7 @@ General configurations
 * Add Dropbox folder to the Dock
 * Setup symlink "~/Downloads" to point to "~/Dropbox/Downloads"  
 * Remove all folders from the Dock
+* Turn on dock hiding
 
 System Preferences
 
