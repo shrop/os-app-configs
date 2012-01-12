@@ -55,7 +55,7 @@ Snippets
 Sound Studio  
 Spotify  
 SQL Developer  
-TextMate  
+Sublime Edit 2 
 TotalFinder  
 Tower  
 Transmit  
@@ -342,29 +342,6 @@ Sound Studio
 
 * Set color preset to "Green on black"  
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
-
-Textmate  
-
-* Setup symlink "~/Library/Application Support/TextMate" to point to "~/Dropbox/Library/Application Support/TextMate"  
-* Includes Bundles: GetBundles and PHP Drupal
-* Includes the Missing Drawer for TextMate: https://github.com/jezdez/textmate-missingdrawer  
-* Turn on line numbers in the gutter  
-* Set tabsize to 2 (soft Tabs: Spaces)  
-* General Preferences:  
-  * Check "Hightlight current line"  
-  * Check "Don't create untitled documents"  
-* Fonts & Colors Preferences:  
-  * Set the theme to "Tomorrow"  
-* Software Update Preferences  
-  * Watch For: Cutting-Edge  
-* Advanced  
-  * Shell Variables: 
-    * TM_ORGANIZATION_NAME = "shropNET"  
-    * PATH = "/usr/bin:/bin:/usr/sbin:/sbin"
-    * TM_DRUPAL_VERSION = "5,6 or 7"
-    * TM_DRUPAL_API = "http://drupalcontrib.org"
-* Missing Drawer
-    * Set the terminal application to "iTerm"
 
 Tower  
 
