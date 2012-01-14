@@ -55,7 +55,7 @@ Snippets
 Sound Studio  
 Spotify  
 SQL Developer  
-Sublime Edit 2 
+Sublime Text 2 
 TotalFinder  
 Tower  
 Transmit  
@@ -263,7 +263,7 @@ iStats Menu
 
 iTerm
 
-* Set the default profile preset colors to "Pastel (Dark Background)"
+* Add Tomorrow theme and set as default
 
 Mail  
 
@@ -342,6 +342,16 @@ Sound Studio
 
 * Set color preset to "Green on black"  
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
+
+Sublime Text 2
+
+* Setup command line tool
+    * $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/usr/local/bin/subl
+* Add Tomorrow themes to ~/Library/Application Support/Sublime Text 2/Packages
+
+Terminal
+
+* Add Tomorrow theme and set as default
 
 Tower  
 

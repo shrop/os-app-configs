@@ -263,7 +263,6 @@ iStats Menu
 
 iTerm
 
-* Set the default profile preset colors to "Pastel (Dark Background)"
 * Add Tomorrow theme and set as default
 
 Mail  
