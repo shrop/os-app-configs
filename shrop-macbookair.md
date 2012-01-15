@@ -35,6 +35,7 @@ MailServe for Lion
 MAMP  
 Marked     
 MindNode Pro   
+Miro Video Converter
 MPlayerX  
 OmniFocus  
 OmniGraffle Pro  
@@ -105,6 +106,7 @@ System Preferences
  * Add suarchat.uncc.edu account for iChat
 * Mission Control  
  * Uncheck "Automatically rearrange based on most recent use"  
+* Install the RCDefaultApp preference pane  
 
 1Password
 
@@ -358,6 +360,7 @@ Transmit
 
 * Preferences
   * Set "Windows open with" to the Dropbox folder
+  * Set Sublime Edit 2 to open all files
 
 Twitterific  
 
