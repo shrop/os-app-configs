@@ -11,6 +11,7 @@ Colloquy
 ColorSchemer Studio  
 CoRD  
 Dropbox  
+Droplr
 Evernote    
 FireFox  
 Flash  
