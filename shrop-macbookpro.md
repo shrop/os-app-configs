@@ -16,7 +16,7 @@ Google Voice And Video Setup
 Google Chrome  
 Gradient  
 Growl  
-HardwareGrowler   TODO  
+HardwareGrowler  
 Hazel    
 Homebrew  
 ImageOptim  TODO  
