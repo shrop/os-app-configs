@@ -19,7 +19,7 @@ Growl
 HardwareGrowler  
 Hazel    
 Homebrew  
-ImageOptim  TODO  
+ImageOptim  
 iMovie  
 iPhoto  
 iStat Menus  
@@ -30,8 +30,8 @@ Marked
 MindNode Pro   
 Miro Video Converter  
 OmniFocus  
-OmniGraffle Pro  TODO  
-Picturesque  TODO  
+OmniGraffle Pro   
+Picturesque  
 Pixelmator  
 Rdio  
 Reeder  
@@ -39,13 +39,13 @@ Sequel Pro
 SizeUp  
 Skitch  
 Skype   
-Sound Studio  TODO  
-Sublime Text 2 
-TotalFinder  TODO    
+Sound Studio  
+Sublime Text 2  
+TotalFinder  
 Tower  
-Transmit  TODO  
+Transmit  
 Twitterific  
-VirtualBox  TODO  
+VirtualBox  
 VirtualHostX  
 Xcode
 Widgets  
