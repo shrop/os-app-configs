@@ -1,6 +1,6 @@
 ### shrop-macbookair:
 **Apps**  
-1Password
+1Password  
 Alfred  
 Art Text 2  
 Caffeine  
