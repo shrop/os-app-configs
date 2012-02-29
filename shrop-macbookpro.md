@@ -48,6 +48,8 @@ Twitterific
 VirtualBox  
 VirtualHostX  
 Xcode
+Yammer  
+
 Widgets  
 * STocks  
 * Weather  
