@@ -8,8 +8,8 @@ Colloquy
 ColorSchemer Studio  
 Dropbox  
 Evernote    
-FireFox TODO
-Fluid  TODO  
+FireFox  
+Fluid   
 GarageBand  
 Go2Shell  
 Google Voice And Video Setup  
@@ -24,7 +24,8 @@ iMovie
 iPhoto  
 iStat Menus  
 iTerm  
-Lingon 3    
+Lingon 3  
+MacGDBp    
 MAMP  
 Marked     
 MindNode Pro   
@@ -35,6 +36,7 @@ Picturesque
 Pixelmator  
 Rdio  
 Reeder  
+RVM  
 Sequel Pro   
 SizeUp  
 Skitch  
@@ -294,8 +296,8 @@ OmniFocus
 
 Ruby Gem Installs  
 
-* Install svn2git for SVN to git repo conversions  
- * sudo gem install svn2git  
+* Vagrant  
+  * Install within an RVM Ruby 1.9.3 setup
 
 Safari  
 
