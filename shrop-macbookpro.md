@@ -35,6 +35,7 @@ OmniFocus
 OmniGraffle Pro   
 Picturesque  
 Pixelmator  
+QuickCal
 Rdio  
 Reeder  
 RVM  
@@ -253,6 +254,10 @@ OmniFocus
 * Setup OmniSync Server  
 * Turn off "Due Soon" from displaying in the dock icon  
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
+
+QuickCal
+
+* Setup default calendar to "Mark Shropshire (mdshrops@shropnet.net)"
 
 Ruby Gem Installs  
 
