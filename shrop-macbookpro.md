@@ -239,6 +239,11 @@ MAMP
         * PHP 5.2.17  
         * Cache: APC  
 
+Marked  
+
+* Marked tools: http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
+        * Added Sublime Text 2 and Services
+
 NPM  
 
 * $ curl http://npmjs.org/install.sh | sh
@@ -264,10 +269,13 @@ Safari
         * Set Tabs top open pages instead of windows "Automatically"  
         * Check "When a new tab or window opens, make it active"
     * Extensions
-        * AdBlock
         * 1Password
+        * AdBlock
+        * BetterSource
         * Evernote
         * Instafari
+        * Measureit
+        * Quickstyle
     * Advanced
         * Check "Show Develop menu in menu bar"
 * Install SafariOmnibar - https://github.com/rs/SafariOmnibar  
