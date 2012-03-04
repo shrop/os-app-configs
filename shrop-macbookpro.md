@@ -175,9 +175,9 @@ Growl
 
 Hazel  
 
-* Set up folder "Downloads" to throw away duplicate files and incomplete downloads after 1 week. Load the same rule sets and select "Old Files" for Downloads.
+* Set up folder "Downloads" to throw away duplicate files and incomplete downloads after 1 week. Load the same rule sets and select "Old Files" for Downloads. Set the "Old Files" rule to set the label after 1 week.
    * Make sure the Downloads folder is in the Dock  
-* Trash: Delete files sitting in Trash for more than 1 week  
+* Trash: Delete files sitting in Trash for more than 1 day  
 * Enable App Sweep and multi-user sweep  
 
 Homebrew  
@@ -193,15 +193,12 @@ Homebrew
 iCal
 
 * Check which calendars to show  
-* Remove local calendars (Home and Work)
-
-iChat
-
-* Add conference room "suarit@conference.suarchat.uncc.edu" and set to connect when iChat starts up
+    * Don't show iCloud "Home" and "Work"  
 
 iCloud
 
 * Sync
+    * Mail & Notes
     * Contacts
     * Bookmarks
     * Photo Stream
@@ -212,9 +209,9 @@ iStats Menu
 
 * Use black graphs and icons in menubar
 * Set combined the following order of items  
- * Menubar Items: CPU  
- * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors  
-* Turn on the date/time display and set the red date icon and show time as hh:mmAM/PM  
+    * Menubar Items: CPU  
+    * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
+* Turn on the date/time display and set the red date icon and show time as hh:mm AM/PM  
 
 iTerm
 
@@ -227,27 +224,20 @@ Mail
 * Turn off RSS check for updates  
 * Delete the "Apple News" RSS feed in the mailboxes listing  
 * Turn off sounds for new mail and sending mail  
-* Add All Mail folders to the Favorites Bar  
-
-MailServe for Lion  
-
-* Add a Smart Host to the Outgoing preferences  
- * Set "Masquerade As" to "shropnet.net"  
- * Set "Smart Host Name" to "smtp.gmail.com:587"  
- * Check "Enable SASL Authentication"  
- * Check "Require SSL"  
- * Set the User-ID and Password fields using gmail credentials
+* Add All Mail/Archive folders to the Favorites Bar  
+* Turn off junk mail filtering
+* Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
 
 MAMP  
 
 * Preferences  
- * Start/Stop  
-  * Uncheck all  
- * Ports  
-  * Set to default Apache and MySQL ports  
- * PHP  
-  * PHP 5.3.6  
-  * Cache: APC  
+    * Start/Stop  
+        * Check all  
+    * Ports  
+        * Set to default Apache and MySQL ports  
+    * PHP  
+        * PHP 5.2.17  
+        * Cache: APC  
 
 NPM  
 
@@ -266,34 +256,40 @@ Ruby Gem Installs
 
 Safari  
 
-* Setup home page to "topsites:"  
-* Add the home page icon to the toolbar
-* Uncheck "Open 'safe' files after downloading"  
-* Remove all existing bookmarks in the Bookmark Bar   
+* Preferences
+    * General
+        * Setup home page to "topsites:"  
+        * Uncheck "Open 'safe' files after downloading"   
+    * Tabs
+        * Set Tabs top open pages instead of windows "Automatically"  
+        * Check "When a new tab or window opens, make it active"
+    * Extensions
+        * AdBlock
+        * 1Password
+        * Evernote
+        * Instafari
+    * Advanced
+        * Check "Show Develop menu in menu bar"
 * Install SafariOmnibar - https://github.com/rs/SafariOmnibar  
-* Extensions:  
-    * 1Password
-    * CLckToPlugin
-    * Evernote
-    * Instafari
 
 Sizeup  
 
 * Set Screen Edge Margins to 25px  
 * Set Partition to 25px  
-* Turn off Send Window Center resize to function
-* Set "Send Window Center" to resize to relative to screen size: 80% x 90%
+* Turn off "Send Window Center resize to function"
 
 Sound Studio  
 
 * Set color preset to "Green on black"  
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
+* Set Sound Studio to launch in 32bit mode
 
 Sublime Text 2
 
 * Setup command line tool
     * $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/usr/local/bin/subl
 * Add Tomorrow themes to ~/Library/Application Support/Sublime Text 2/Packages
+* Install Package Control: http://wbond.net/sublime_packages/package_control
 
 Terminal
 
@@ -302,18 +298,21 @@ Terminal
 Tower  
 
 * Install the Command Line Tool under the Integration section of the Tower menu  
-* Set FileMerge as the default diff/merge tool
-* Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
+* Preferences  
+    * Set FileMerge as the default diff/merge tool
+    * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
+    * Set the default repo folder
+    * Set the default email address for repos
 
 Transmit
 
 * Preferences
-  * Set "Windows open with" to the Dropbox folder
+  * Set "Windows open with" to the home folder
   * Set Sublime Edit 2 to open all files
 
 Twitterific  
 
-* Setup accounts: bestofmrsshrop, chardug, drupalcampclt, rockyriver and fshrop
+* Setup accounts: bestofmrsshrop, chardug, drupalcampclt, rockyriver and shrop
 * Show Growl notifications for mentions and messages 
 * set Appearance to "Light"
 * Keep Timeline Scrolled to Top   
