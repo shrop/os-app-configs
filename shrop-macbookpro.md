@@ -332,3 +332,9 @@ Twitterific
 * Applications Icons: Do not show in the Menubar  
 * Turn off "Play Notification Sound"  
 * Bookmarking: Instapaper
+
+VirtualHostX
+
+* Preferences
+        * Sort hosts: Alphabetically
+        * Default Web Server: MAMP
