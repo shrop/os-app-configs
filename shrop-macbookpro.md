@@ -1,5 +1,5 @@
-### shrop-macbookpro:
-**Apps**  
+# shrop-macbookpro
+### Applications  
 1Password  
 Alfred  
 Art Text 2  
@@ -60,12 +60,13 @@ Widgets
 * Clock  
 * Delivery Status  
 
-**Configurations**  
-General configurations
+### Configurations 
+
+#### General configurations
 
 * Add Dropbox folder to the Dock  
 
-System Preferences
+#### System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
 * Turn on "Dock hiding"  
@@ -87,12 +88,12 @@ System Preferences
 * Mission Control  
     * Uncheck "Automatically rearrange based on most recent use"  
 
-1Password
+#### 1Password
 
 * Point to database in Dropbox  
 * Install all browser extensions  
 
-Alfred
+#### Alfred
 
 * Setup Dropbox sync  
 * Hide hat on Alfred window  
@@ -114,11 +115,11 @@ Alfred
     * Turn on "eject" for "Local Mounted Volumes"
 * Set the theme to "Lion" in the Appearance preferences area  
 
-Caffeine
+#### Caffeine
 
 * Setup Caffeine to start on login  
 
-Colloquy  
+#### Colloquy  
 
 * Change Appearance style to "Fiat"
 * Mute all notification sounds  
@@ -126,11 +127,11 @@ Colloquy
      * ...only if Colloquy is in the background  
      * ...and keep on screen until activated   
 
-Dropbox
+#### Dropbox
 
  * Change icon to black and white
  
-Evernote
+#### Evernote
 
 * Preferences
   * Evernote Helper (check the following)
@@ -141,7 +142,7 @@ Evernote
      * Uncheck "Bring the clip to the front"
      * Uncheck "Bounce the dock icon once"
 
-Finder  
+#### Finder  
 
 * Show these items on the desktop: all    
 * New Finder windows show: ~/Dropbox  
@@ -158,30 +159,30 @@ Finder
         * Check "Hide icon in Menu Bar"  
         * Check "Allow path copying from Context Menus"  
 
-Go2Shell
+#### Go2Shell
 
 * Add to Finder  
 * Set iTerm2 to open with Go2Shell:
 	* $ open -a Go2Shell --args config
 	
-Google Chrome
+#### Google Chrome
 
 * Sign in to to my Google Apps account for syncing
 
-Growl  
+#### Growl  
 
 * Set Growl to launch at login in the Growl preferences  
 * Uncheck "Rollup automatically displays"
 * Set Growl to send notifications to rollup after 600 seconds of inactivity   
 
-Hazel  
+#### Hazel  
 
 * Set up folder "Downloads" to throw away duplicate files and incomplete downloads after 1 week. Load the same rule sets and select "Old Files" for Downloads. Set the "Old Files" rule to set the label after 1 week.
    * Make sure the Downloads folder is in the Dock  
 * Trash: Delete files sitting in Trash for more than 1 day  
 * Enable App Sweep and multi-user sweep  
 
-Homebrew  
+#### Homebrew  
 
 * Install in /usr/local 
 * Make sure /usr/local is owned by myuser:staff 
@@ -191,12 +192,12 @@ Homebrew
 * Install node   
 * Install wget  
 
-iCal
+#### iCal
 
 * Check which calendars to show  
     * Don't show iCloud "Home" and "Work"  
 
-iCloud
+#### iCloud
 
 * Sync
     * Mail & Notes
@@ -206,7 +207,7 @@ iCloud
     * Documents & Data
     * Find My Mac
 
-iStats Menu  
+#### iStats Menu  
 
 * Use black graphs and icons in menubar
 * Set combined the following order of items  
@@ -214,11 +215,11 @@ iStats Menu
     * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
 * Turn on the date/time display and set the red date icon and show time as hh:mm AM/PM  
 
-iTerm
+#### iTerm
 
 * Add Tomorrow theme and set as default
 
-Mail  
+#### Mail  
 
 * Remove the Apple Mail rule  
 * Set accounts to be checked every hour for mail rules processing
@@ -229,42 +230,40 @@ Mail
 * Turn off junk mail filtering
 * Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
 
-MAMP  
+#### MAMP  
 
 * Preferences  
     * Start/Stop  
         * Check all  
-    * Ports  
-        * Set to default Apache and MySQL ports  
     * PHP  
         * PHP 5.2.17  
         * Cache: APC  
 
-Marked  
+#### Marked  
 
 * Marked tools: http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
         * Added Sublime Text 2 and Services
 
-NPM  
+#### NPM  
 
 * $ curl http://npmjs.org/install.sh | sh
 
-OmniFocus  
+#### OmniFocus  
 
 * Setup OmniSync Server  
 * Turn off "Due Soon" from displaying in the dock icon  
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
 
-QuickCal
+#### QuickCal
 
 * Setup default calendar to "Mark Shropshire (mdshrops@shropnet.net)"
 
-Ruby Gem Installs  
+#### Ruby Gem Installs  
 
 * Vagrant  
   * Install within an RVM Ruby 1.9.3 setup
 
-Safari  
+#### Safari  
 
 * Preferences
     * General
@@ -285,30 +284,30 @@ Safari
         * Check "Show Develop menu in menu bar"
 * Install SafariOmnibar - https://github.com/rs/SafariOmnibar  
 
-Sizeup  
+#### Sizeup  
 
 * Set Screen Edge Margins to 25px  
 * Set Partition to 25px  
 * Turn off "Send Window Center resize to function"
 
-Sound Studio  
+#### Sound Studio  
 
 * Set color preset to "Green on black"  
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
 * Set Sound Studio to launch in 32bit mode
 
-Sublime Text 2
+#### Sublime Text 2
 
 * Setup command line tool
     * $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/usr/local/bin/subl
 * Add Tomorrow themes to ~/Library/Application Support/Sublime Text 2/Packages
 * Install Package Control: http://wbond.net/sublime_packages/package_control
 
-Terminal
+#### Terminal
 
 * Add Tomorrow theme and set as default
 
-Tower  
+#### Tower  
 
 * Install the Command Line Tool under the Integration section of the Tower menu  
 * Preferences  
@@ -317,13 +316,13 @@ Tower
     * Set the default repo folder
     * Set the default email address for repos
 
-Transmit
+#### Transmit
 
 * Preferences
   * Set "Windows open with" to the home folder
   * Set Sublime Edit 2 to open all files
 
-Twitterific  
+#### Twitterific  
 
 * Setup accounts: bestofmrsshrop, chardug, drupalcampclt, rockyriver and shrop
 * Show Growl notifications for mentions and messages 
@@ -333,8 +332,9 @@ Twitterific
 * Turn off "Play Notification Sound"  
 * Bookmarking: Instapaper
 
-VirtualHostX
+#### VirtualHostX
 
 * Preferences
         * Sort hosts: Alphabetically
         * Default Web Server: MAMP
+Note: New virtual hosts need to use port 8888
