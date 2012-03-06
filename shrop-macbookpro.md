@@ -111,6 +111,7 @@ Widgets
     * Turn on "Auto Paste on return"
 * AddressBook
     * Turn on "Open Contacts in Alfred"
+    * Phone: "Pass to URL Scheme:" imessage:{query}
 * System Commands
     * Turn on "eject" for "Local Mounted Volumes"
 * Set the theme to "Lion" in the Appearance preferences area  
