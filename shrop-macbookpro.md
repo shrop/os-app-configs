@@ -32,7 +32,8 @@ MindNode Pro
 Miro Video Converter  
 NPM  
 OmniFocus  
-OmniGraffle Pro   
+OmniGraffle Pro  
+OpenVPN Connect 
 Picturesque  
 Pixelmator  
 QuickCal
@@ -114,6 +115,9 @@ Widgets
     * Phone: "Pass to URL Scheme:" imessage:{query}
 * System Commands
     * Turn on "eject" for "Local Mounted Volumes"
+* Terminal / Shell
+    * Application: iTerm2
+    * Prefix: $
 * Set the theme to "Lion" in the Appearance preferences area  
 
 #### Caffeine
