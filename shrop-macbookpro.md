@@ -31,9 +31,11 @@ Marked
 MindNode Pro   
 Miro Video Converter  
 NPM  
+Numbers  
 OmniFocus  
 OmniGraffle Pro  
-OpenVPN Connect 
+OpenVPN Connect  
+Pages  
 Picturesque  
 Pixelmator  
 QuickCal
