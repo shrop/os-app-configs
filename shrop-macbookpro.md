@@ -4,6 +4,7 @@
 Alfred  
 Art Text 2  
 Caffeine  
+ClamXav  
 Colloquy  
 ColorSchemer Studio  
 Dropbox  
@@ -125,6 +126,13 @@ Widgets
 #### Caffeine
 
 * Setup Caffeine to start on login  
+
+#### ClamXav
+
+* Setup daily updates (10:45am weekdays) and scans (11:00am weekdays)
+* Setup daily scan to scan ~
+* Setup watch folders ~/Desktop and ~/Downloads
+* Turn off sounds
 
 #### Colloquy  
 
