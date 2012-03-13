@@ -7,6 +7,7 @@ Caffeine
 ClamXav  
 Colloquy  
 ColorSchemer Studio  
+CoRD  
 Dropbox  
 Evernote    
 FireFox  
