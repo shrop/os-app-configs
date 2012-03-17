@@ -35,8 +35,7 @@ Miro Video Converter
 NPM  
 Numbers  
 OmniFocus  
-OmniGraffle Pro  
-OpenVPN Connect  
+OmniGraffle Pro   
 Pages  
 Picturesque  
 Pixelmator  
@@ -55,7 +54,8 @@ Tower
 Transmit  
 Twitterific  
 VirtualBox  
-VirtualHostX  
+VirtualHostX
+Viscosity  
 Xcode
 Yammer  
 
@@ -137,11 +137,9 @@ Widgets
 
 #### Colloquy  
 
-* Change Appearance style to "Fiat"
-* Mute all notification sounds  
+* Change Appearance style to "Fiat" 
 * Show event bubble option  
      * ...only if Colloquy is in the background  
-     * ...and keep on screen until activated   
 
 #### Dropbox
 
@@ -354,3 +352,12 @@ Widgets
         * Sort hosts: Alphabetically
         * Default Web Server: MAMP
 Note: New virtual hosts need to use port 8888
+
+#### Viscosity
+
+* Preferences
+        * Connections
+                * Import the opvn configuration file form our OpenVPN server
+        * General
+                * Set Viscosity to start at login
+                * Check for updates automatically
