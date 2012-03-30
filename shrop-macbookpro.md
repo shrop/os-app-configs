@@ -1,9 +1,11 @@
 # shrop-macbookpro
-### Applications  
+### Applications   
 1Password  
+Air Display  
 Alfred  
 Art Text 2  
 Caffeine  
+CodeKit  
 ClamXav  
 Colloquy  
 ColorSchemer Studio  
@@ -17,6 +19,7 @@ Go2Shell
 Google Voice And Video Setup  
 Google Chrome  
 Gradient  
+Gabble  
 Growl  
 HardwareGrowler  
 Hazel    
@@ -32,6 +35,7 @@ MAMP
 Marked     
 MindNode Pro   
 Miro Video Converter  
+NeoOffice  
 NPM  
 Numbers  
 OmniFocus  
