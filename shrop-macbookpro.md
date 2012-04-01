@@ -22,6 +22,7 @@ Gradient
 Gabble  
 Growl  
 HardwareGrowler  
+Harvest  
 Hazel    
 Homebrew  
 ImageOptim  
