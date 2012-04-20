@@ -1,121 +1,121 @@
 # shrop-macbookpro
-### Applications   
-1Password  
-Air Display  
-Alfred  
-Art Text 2  
-Caffeine  
-CodeKit  
-ClamXav  
-Colloquy  
-ColorSchemer Studio  
-CoRD  
-Dropbox  
-Evernote    
-FireFox  
-Fluid   
-GarageBand  
-Go2Shell  
-Google Voice And Video Setup  
-Google Chrome  
-Gradient  
-Gabble  
-Growl  
-HardwareGrowler  
-Harvest  
-Hazel    
-Homebrew  
-ImageOptim  
-iMovie  
-iPhoto  
-iStat Menus  
-iTerm  
-Lingon 3  
-MacGDBp    
-MAMP  
-Marked     
-MindNode Pro   
-Miro Video Converter  
-NeoOffice  
-NPM  
-Numbers  
-OmniFocus  
-OmniGraffle Pro   
-Pages  
-Picturesque  
-Pixelmator  
+### Applications
+1Password
+Air Display
+Alfred
+Art Text 2
+Caffeine
+CodeKit
+ClamXav
+Colloquy
+ColorSchemer Studio
+CoRD
+Dropbox
+Evernote
+FireFox
+Fluid
+GarageBand
+Go2Shell
+Google Voice And Video Setup
+Google Chrome
+Gradient
+Gabble
+Growl
+HardwareGrowler
+Harvest
+Hazel
+Homebrew
+ImageOptim
+iMovie
+iPhoto
+iStat Menus
+iTerm
+Lingon 3
+MacGDBp
+MAMP
+Marked
+MindNode Pro
+Miro Video Converter
+NeoOffice
+NPM
+Numbers
+OmniFocus
+OmniGraffle Pro
+Pages
+Picturesque
+Pixelmator
 QuickCal
-Rdio  
-Reeder  
-RVM  
-Sequel Pro   
-SizeUp  
-Skitch  
-Skype   
-Sound Studio  
-Sublime Text 2  
-TotalFinder  
-Tower  
-Transmit  
-Twitterific  
-VirtualBox  
+Rdio
+Reeder
+RVM
+Sequel Pro
+SizeUp
+Skitch
+Skype
+Sound Studio
+Sublime Text 2
+TotalFinder
+Tower
+Transmit
+Twitterific
+VirtualBox
 VirtualHostX
-Viscosity  
+Viscosity
 Xcode
-Yammer  
+Yammer
 
-Widgets  
-* STocks  
-* Weather   
-* Clock  
-* Delivery Status  
+Widgets
+* STocks
+* Weather
+* Clock
+* Delivery Status
 
-### Configurations 
+### Configurations
 
 #### General configurations
 
-* Add Dropbox folder to the Dock  
+* Add Dropbox folder to the Dock
 
 #### System Preferences
 
 * Set the "Computer Name" and "Local Hostname" in "Sharing"
-* Turn on "Dock hiding"  
+* Turn on "Dock hiding"
 * Turn off screen-savers
 * Set "Energy Saver" to defaults
-* Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins  
-* Turn off discoverable mode in Bluetooth settings  
+* Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
+* Turn off discoverable mode in Bluetooth settings
 * Turn off "Show Bluetooth status in the menu bar"
-* Turn on "Secondary click" in "Mouse" settings  
+* Turn on "Secondary click" in "Mouse" settings
 * TouchPad settings:
     * Turn on "Secondary click"
     * Turn on "Three finger drag"
     * Turn on "App Exposé"
-* Mail, Contacts and Calendars  
-    * Add gmail account Google Chat to iChat  
-    * Add AIM account to iChat  
-    * Add work email as an IMAP account  
+* Mail, Contacts and Calendars
+    * Add gmail account Google Chat to iChat
+    * Add AIM account to iChat
+    * Add work email as an IMAP account
     * Add Google Apps account for mail, calendars and iChat
-* Mission Control  
-    * Uncheck "Automatically rearrange based on most recent use"  
+* Mission Control
+    * Uncheck "Automatically rearrange based on most recent use"
 
 #### 1Password
 
-* Point to database in Dropbox  
-* Install all browser extensions  
+* Point to database in Dropbox
+* Install all browser extensions
 
 #### Alfred
 
-* Setup Dropbox sync  
-* Hide hat on Alfred window  
-* Default Results  
-    * Extras: Folders  
-    * Search Scopes: 
+* Setup Dropbox sync
+* Hide hat on Alfred window
+* Default Results
+    * Extras: Folders
+    * Search Scopes:
         * /Applications
         * /Developer/Applications
         * /Library/PreferencePanes
         * /System/Library/CoreServices
         * /System/Library/PreferencePanes
-* Setup Command + Spacebar for action and turn this key combo off for Spotlight  
+* Setup Command + Spacebar for action and turn this key combo off for Spotlight
 * Clipboard
     * Clipboard History: Persist for 24 hours
     * Turn on "Auto Paste on return"
@@ -127,11 +127,11 @@ Widgets
 * Terminal / Shell
     * Application: iTerm2
     * Prefix: $
-* Set the theme to "Lion" in the Appearance preferences area  
+* Set the theme to "Lion" in the Appearance preferences area
 
 #### Caffeine
 
-* Setup Caffeine to start on login  
+* Setup Caffeine to start on login
 
 #### ClamXav
 
@@ -140,16 +140,16 @@ Widgets
 * Setup watch folders ~/Desktop and ~/Downloads
 * Turn off sounds
 
-#### Colloquy  
+#### Colloquy
 
-* Change Appearance style to "Fiat" 
-* Show event bubble option  
-     * ...only if Colloquy is in the background  
+* Change Appearance style to "Fiat"
+* Show event bubble option
+     * ...only if Colloquy is in the background
 
 #### Dropbox
 
  * Change icon to black and white
- 
+
 #### Evernote
 
 * Preferences
@@ -157,64 +157,64 @@ Widgets
      * Keep Evernote Helper running in the background when I quit Evernote
      * Show Elephant in Menubar
      * Start the Evernote Helper when I log in to my computer
-  * After clipping 
+  * After clipping
      * Uncheck "Bring the clip to the front"
      * Uncheck "Bounce the dock icon once"
 
-#### Finder  
+#### Finder
 
-* Show these items on the desktop: all    
-* New Finder windows show: ~/Dropbox  
+* Show these items on the desktop: all
+* New Finder windows show: ~/Dropbox
 * General
     * New Finder windows show: Home directory
-* Sidebar 
+* Sidebar
     * Check all
 * Advanced
-    * Uncheck "Show warnings before changing an extension"  
+    * Uncheck "Show warnings before changing an extension"
     * Uncheck "Show warnings before emptying the Trash"
-* When performing a search: Search the Current Folder  
-* TotalFinder:   
-    * Tweaks  
-        * Check "Hide icon in Menu Bar"  
-        * Check "Allow path copying from Context Menus"  
+* When performing a search: Search the Current Folder
+* TotalFinder:
+    * Tweaks
+        * Check "Hide icon in Menu Bar"
+        * Check "Allow path copying from Context Menus"
 
 #### Go2Shell
 
-* Add to Finder  
+* Add to Finder
 * Set iTerm2 to open with Go2Shell:
 	* $ open -a Go2Shell --args config
-	
+
 #### Google Chrome
 
 * Sign in to to my Google Apps account for syncing
 
-#### Growl  
+#### Growl
 
-* Set Growl to launch at login in the Growl preferences  
+* Set Growl to launch at login in the Growl preferences
 * Uncheck "Rollup automatically displays"
-* Set Growl to send notifications to rollup after 600 seconds of inactivity   
+* Set Growl to send notifications to rollup after 600 seconds of inactivity
 
-#### Hazel  
+#### Hazel
 
 * Set up folder "Downloads" to throw away duplicate files and incomplete downloads after 1 week. Load the same rule sets and select "Old Files" for Downloads. Set the "Old Files" rule to set the label after 1 week.
-   * Make sure the Downloads folder is in the Dock  
-* Trash: Delete files sitting in Trash for more than 1 day  
-* Enable App Sweep and multi-user sweep  
+   * Make sure the Downloads folder is in the Dock
+* Trash: Delete files sitting in Trash for more than 1 day
+* Enable App Sweep and multi-user sweep
 
-#### Homebrew  
+#### Homebrew
 
-* Install in /usr/local 
-* Make sure /usr/local is owned by myuser:staff 
-* Install drush  
-* Install git  
-* Install nmap  
-* Install node   
-* Install wget  
+* Install in /usr/local
+* Make sure /usr/local is owned by myuser:staff
+* Install drush
+* Install git
+* Install nmap
+* Install node
+* Install wget
 
 #### iCal
 
-* Check which calendars to show  
-    * Don't show iCloud "Home" and "Work"  
+* Check which calendars to show
+    * Don't show iCloud "Home" and "Work"
 
 #### iCloud
 
@@ -226,70 +226,70 @@ Widgets
     * Documents & Data
     * Find My Mac
 
-#### iStats Menu  
+#### iStats Menu
 
 * Use black graphs and icons in menubar
-* Set combined the following order of items  
-    * Menubar Items: CPU  
+* Set combined the following order of items
+    * Menubar Items: CPU
     * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
-* Turn on the date/time display and set the red date icon and show time as hh:mm AM/PM  
+* Turn on the date/time display and set the red date icon and show time as hh:mm AM/PM
 
 #### iTerm
 
 * Add Tomorrow theme and set as default
 
-#### Mail  
+#### Mail
 
-* Remove the Apple Mail rule  
+* Remove the Apple Mail rule
 * Set accounts to be checked every hour for mail rules processing
-* Turn off RSS check for updates  
-* Delete the "Apple News" RSS feed in the mailboxes listing  
-* Turn off sounds for new mail and sending mail  
-* Add All Mail/Archive folders to the Favorites Bar  
+* Turn off RSS check for updates
+* Delete the "Apple News" RSS feed in the mailboxes listing
+* Turn off sounds for new mail and sending mail
+* Add All Mail/Archive folders to the Favorites Bar
 * Turn off junk mail filtering
 * Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
 
-#### MAMP  
+#### MAMP
 
-* Preferences  
-    * Start/Stop  
-        * Check all  
-    * PHP  
-        * PHP 5.2.17  
-        * Cache: APC  
+* Preferences
+    * Start/Stop
+        * Check all
+    * PHP
+        * PHP 5.2.17
+        * Cache: APC
 
-#### Marked  
+#### Marked
 
 * Marked tools: http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
         * Added Sublime Text 2 and Services
 
-#### NPM  
+#### NPM
 
 * $ curl http://npmjs.org/install.sh | sh
 
-#### OmniFocus  
+#### OmniFocus
 
-* Setup OmniSync Server  
-* Turn off "Due Soon" from displaying in the dock icon  
-* Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.  
+* Setup OmniSync Server
+* Turn off "Due Soon" from displaying in the dock icon
+* Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.
 
 #### QuickCal
 
 * Setup default calendar to "Mark Shropshire (mdshrops@shropnet.net)"
 
-#### Ruby Gem Installs  
+#### Ruby Gem Installs
 
-* Vagrant  
+* Vagrant
   * Install within an RVM Ruby 1.9.3 setup
 
-#### Safari  
+#### Safari
 
 * Preferences
     * General
-        * Setup home page to "topsites:"  
-        * Uncheck "Open 'safe' files after downloading"   
+        * Setup home page to "topsites:"
+        * Uncheck "Open 'safe' files after downloading"
     * Tabs
-        * Set Tabs top open pages instead of windows "Automatically"  
+        * Set Tabs top open pages instead of windows "Automatically"
         * Check "When a new tab or window opens, make it active"
     * Extensions
         * 1Password
@@ -297,22 +297,21 @@ Widgets
         * BetterSource
         * Evernote
         * Instafari
-        * Measureit
         * Quickstyle
     * Advanced
         * Check "Show Develop menu in menu bar"
-* Install SafariOmnibar - https://github.com/rs/SafariOmnibar  
+* Install SafariOmnibar - https://github.com/rs/SafariOmnibar
 
-#### Sizeup  
+#### Sizeup
 
-* Set Screen Edge Margins to 25px  
-* Set Partition to 25px  
+* Set Screen Edge Margins to 25px
+* Set Partition to 25px
 * Turn off "Send Window Center resize to function"
 
-#### Sound Studio  
+#### Sound Studio
 
-* Set color preset to "Green on black"  
-* Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip  
+* Set color preset to "Green on black"
+* Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip
 * Set Sound Studio to launch in 32bit mode
 
 #### Sublime Text 2
@@ -326,12 +325,12 @@ Widgets
 
 * Add Tomorrow theme and set as default
 
-#### Tower  
+#### Tower
 
-* Install the Command Line Tool under the Integration section of the Tower menu  
-* Preferences  
+* Install the Command Line Tool under the Integration section of the Tower menu
+* Preferences
     * Set FileMerge as the default diff/merge tool
-    * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar  
+    * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar
     * Set the default repo folder
     * Set the default email address for repos
 
@@ -341,14 +340,14 @@ Widgets
   * Set "Windows open with" to the home folder
   * Set Sublime Edit 2 to open all files
 
-#### Twitterific  
+#### Twitterific
 
 * Setup accounts: bestofmrsshrop, chardug, drupalcampclt, rockyriver and shrop
-* Show Growl notifications for mentions and messages 
+* Show Growl notifications for mentions and messages
 * set Appearance to "Light"
-* Keep Timeline Scrolled to Top   
-* Applications Icons: Do not show in the Menubar  
-* Turn off "Play Notification Sound"  
+* Keep Timeline Scrolled to Top
+* Applications Icons: Do not show in the Menubar
+* Turn off "Play Notification Sound"
 * Bookmarking: Instapaper
 
 #### VirtualHostX
