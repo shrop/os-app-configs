@@ -1,74 +1,75 @@
 # shrop-macbookpro
 ### Applications
-1Password
-Air Display
-Alfred
-Art Text 2
-Caffeine
-CodeKit
-ClamXav
-Colloquy
-ColorSchemer Studio
-CoRD
-Dropbox
-Evernote
-FireFox
-Fluid
-GarageBand
-Go2Shell
-Google Voice And Video Setup
-Google Chrome
-Gradient
-Gabble
-Growl
-HardwareGrowler
-Harvest
-Hazel
-Homebrew
-ImageOptim
-iMovie
+1Password  
+Air Display  
+Alfred  
+Art Text 2  
+Caffeine  
+CodeKit  
+ClamXav  
+Colloquy  
+ColorSchemer Studio  
+CoRD  
+Dropbox  
+Evernote  
+FireFox  
+Fluid  
+GarageBand  
+Go2Shell  
+Google Voice And Video Setup  
+Google Chrome  
+Gradient  
+Gabble  
+Growl  
+HardwareGrowler  
+Harvest  
+Hazel  
+Homebrew  
+ImageOptim  
+iMovie  
 iPhoto
-iStat Menus
-iTerm
-Lingon 3
-MacGDBp
-MAMP
-Marked
-MindNode Pro
-Miro Video Converter
-NeoOffice
-NPM
-Numbers
-OmniFocus
-OmniGraffle Pro
-Pages
-Picturesque
-Pixelmator
-QuickCal
-Rdio
-Reeder
-RVM
-Sequel Pro
-SizeUp
-Skitch
-Skype
-Sound Studio
-Sublime Text 2
-TotalFinder
-Tower
-Transmit
-Twitterific
-VirtualBox
-VirtualHostX
-Viscosity
-Xcode
-Yammer
+iStat Menus  
+iTerm  
+Lingon 3  
+MacGDBp  
+MAMP  
+Marked  
+MindNode Pro  
+Miro Video Converter  
+MongoHub  
+NeoOffice  
+NPM  
+Numbers  
+OmniFocus  
+OmniGraffle Pro  
+Pages  
+Picturesque  
+Pixelmator  
+QuickCal  
+Rdio  
+Reeder  
+RVM  
+Sequel Pro  
+SizeUp  
+Skitch  
+Skype  
+Sound Studio  
+Sublime Text 2  
+TotalFinder  
+Tower  
+Transmit  
+Twitterific  
+VirtualBox  
+VirtualHostX  
+Viscosity  
+Xcode  
+Yammer  
 
-Widgets
-* STocks
-* Weather
-* Clock
-* Delivery Status
+Widgets  
+* STocks  
+* Weather  
+* Clock  
+* Delivery Status  
 
 ### Configurations
 
@@ -205,11 +206,6 @@ Widgets
 
 * Install in /usr/local
 * Make sure /usr/local is owned by myuser:staff
-* Install drush
-* Install git
-* Install nmap
-* Install node
-* Install wget
 
 #### iCal
 
@@ -353,15 +349,14 @@ Widgets
 #### VirtualHostX
 
 * Preferences
-        * Sort hosts: Alphabetically
-        * Default Web Server: MAMP
-Note: New virtual hosts need to use port 8888
+    * Sort hosts: Alphabetically
+    * Default Web Server: MAMP
 
 #### Viscosity
 
 * Preferences
-        * Connections
-                * Import the opvn configuration file form our OpenVPN server
-        * General
-                * Set Viscosity to start at login
-                * Check for updates automatically
+    * Connections
+        * Import the opvn configuration file form our OpenVPN server
+    * General
+        * Set Viscosity to start at login
+        * Check for updates automatically
