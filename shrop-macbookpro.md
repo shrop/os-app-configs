@@ -3,6 +3,7 @@
 1Password  
 Air Display  
 Alfred  
+Amazon MP3 Downloader  
 Art Text 2  
 Caffeine  
 CodeKit  
@@ -14,6 +15,7 @@ Dropbox
 Evernote  
 FireFox  
 Fluid  
+Flux  
 GarageBand  
 Go2Shell  
 Google Voice And Video Setup  
@@ -57,6 +59,7 @@ Sound Studio
 Sublime Text 2  
 TotalFinder  
 Tower  
+Transmission  
 Transmit  
 Twitterific  
 VirtualBox  
@@ -233,6 +236,11 @@ Widgets
 #### iTerm
 
 * Add Tomorrow theme and set as default
+* Prefernces
+    * General
+        * Use Lion-style Fullscreen windows
+    * Appearance
+        * Dim inactive split panes
 
 #### Mail
 
