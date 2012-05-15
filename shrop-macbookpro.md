@@ -342,8 +342,9 @@ Widgets
 #### Transmit
 
 * Preferences
-  * Set "Windows open with" to the home folder
-  * Set Sublime Edit 2 to open all files
+    * Uncheck "Show Transmit Disk in menu"
+    * Set "Windows open with" to the home folder
+    * Set Sublime Edit 2 to open all files
 
 #### Twitterific
 
