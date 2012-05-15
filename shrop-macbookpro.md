@@ -12,7 +12,8 @@ Colloquy
 ColorSchemer Studio  
 CoRD  
 Dropbox  
-Evernote  
+Evernote 
+ExpanDrive   
 FireFox  
 Fluid  
 Flux  
