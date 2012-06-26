@@ -5,25 +5,36 @@ Air Display
 Alfred  
 Amazon MP3 Downloader  
 Art Text 2  
+Byword  
 Caffeine  
-CodeKit  
+CheatSheet  
 ClamXav  
+Cobook  
 Colloquy  
 ColorSchemer Studio  
+Coda  
+CodeKit  
 CoRD  
+CrashPlan menu bar  
+CSS3ToolKit  
+Disk Inventory X  
 Dropbox  
-Evernote 
-ExpanDrive   
+DropKey  
+Evernote  
 FireFox  
+Fish Shell  
+Flip4Mac  
 Fluid  
 Flux  
 GarageBand  
 Go2Shell  
 Google Voice And Video Setup  
 Google Chrome  
+Google Drive  
 Gradient  
 Gabble  
 Growl  
+Handbrake  
 HardwareGrowler  
 Harvest  
 Hazel  
@@ -57,6 +68,7 @@ SizeUp
 Skitch  
 Skype  
 Sound Studio  
+SpriteRight  
 Sublime Text 2  
 TotalFinder  
 Tower  
@@ -91,12 +103,15 @@ Widgets
 * Turn off discoverable mode in Bluetooth settings
 * Turn off "Show Bluetooth status in the menu bar"
 * Turn on "Secondary click" in "Mouse" settings
+* Desktop & Screen Saver
+    * Set screen saver to never start  
 * TouchPad settings:
     * Turn on "Secondary click"
     * Turn on "Three finger drag"
     * Turn on "App Exposé"
 * Mail, Contacts and Calendars
     * Add gmail account Google Chat to iChat
+    * Add Google Apps account Google Chat to iChat
     * Add AIM account to iChat
     * Add work email as an IMAP account
     * Add Google Apps account for mail, calendars and iChat
@@ -145,6 +160,19 @@ Widgets
 * Setup watch folders ~/Desktop and ~/Downloads
 * Turn off sounds
 
+#### Cobook
+
+* Set Cobook to be the default addressbook
+* Connect to Twitter to sync contact profile pics
+
+#### Coda
+
+* Preferences
+    * General
+        * Set sidebar to the left
+    * Editor
+        * Set PHP/HTML to be the default document type
+
 #### Colloquy
 
 * Change Appearance style to "Fiat"
@@ -155,7 +183,7 @@ Widgets
 
  * Change icon to black and white
 
-#### Evernote
+#### Ecrnote
 
 * Preferences
   * Evernote Helper (check the following)
@@ -229,6 +257,7 @@ Widgets
 #### iStats Menu
 
 * Use black graphs and icons in menubar
+* CPU: Show multiple CPU cores as one item
 * Set combined the following order of items
     * Menubar Items: CPU
     * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
@@ -311,7 +340,7 @@ Widgets
 
 * Set Screen Edge Margins to 25px
 * Set Partition to 25px
-* Turn off "Send Window Center resize to function"
+* Center window and resize to relative: 85px x 65px
 
 #### Sound Studio
 
@@ -342,7 +371,6 @@ Widgets
 #### Transmit
 
 * Preferences
-    * Uncheck "Show Transmit Disk in menu"
     * Set "Windows open with" to the home folder
     * Set Sublime Edit 2 to open all files
 
