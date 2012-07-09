@@ -15,7 +15,6 @@ ColorSchemer Studio
 Coda  
 CodeKit  
 CoRD  
-CrashPlan menu bar  
 CSS3ToolKit  
 Disk Inventory X  
 Dropbox  
@@ -43,10 +42,10 @@ ImageOptim
 iMovie  
 iPhoto
 iStat Menus  
+iStumbler  
 iTerm  
 Lingon 3  
 MacGDBp  
-MAMP  
 Marked  
 MindNode Pro  
 Miro Video Converter  
@@ -63,6 +62,7 @@ QuickCal
 Rdio  
 Reeder  
 RVM  
+Secrets Prefs Pane  
 Sequel Pro  
 SizeUp  
 Skitch  
@@ -148,6 +148,12 @@ Widgets
     * Application: iTerm2
     * Prefix: $
 * Set the theme to "Lion" in the Appearance preferences area
+
+#### AppleScript Editor
+
+* Preferences
+	* General
+		* Check the "Show Script menu in menu bar" checkbox
 
 #### Caffeine
 
@@ -236,8 +242,7 @@ Widgets
 
 #### Homebrew
 
-* Install in /usr/local
-* Make sure /usr/local is owned by myuser:staff
+* Restore /usr/local from backup for settings and Formulas installed
 
 #### iCal
 
@@ -283,15 +288,6 @@ Widgets
 * Turn off junk mail filtering
 * Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
 
-#### MAMP
-
-* Preferences
-    * Start/Stop
-        * Check all
-    * PHP
-        * PHP 5.2.17
-        * Cache: APC
-
 #### Marked
 
 * Marked tools: http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
@@ -306,6 +302,7 @@ Widgets
 * Setup OmniSync Server
 * Turn off "Due Soon" from displaying in the dock icon
 * Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.
+* Add Due (all) perspective to the toolbar following "Due"
 
 #### QuickCal
 
@@ -350,10 +347,7 @@ Widgets
 
 #### Sublime Text 2
 
-* Setup command line tool
-    * $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/usr/local/bin/subl
-* Add Tomorrow themes to ~/Library/Application Support/Sublime Text 2/Packages
-* Install Package Control: http://wbond.net/sublime_packages/package_control
+* Restore ~/Library/Application Support/Sublime Text 2 from backup for settings and packages installed
 
 #### Terminal
 
