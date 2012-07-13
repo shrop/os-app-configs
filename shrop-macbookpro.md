@@ -4,7 +4,9 @@
 Air Display  
 Alfred  
 Amazon MP3 Downloader  
+AppShopper.com Importer  
 Art Text 2  
+Bartender  
 Byword  
 Caffeine  
 CheatSheet  
@@ -74,6 +76,7 @@ TotalFinder
 Tower  
 Transmission  
 Transmit  
+Tweetbot  
 Twitterific  
 VirtualBox  
 VirtualHostX  
@@ -127,6 +130,7 @@ Widgets
 
 * Setup Dropbox sync
 * Hide hat on Alfred window
+* Hide menu bar icon
 * Default Results
     * Extras: Folders
     * Search Scopes:
@@ -189,7 +193,7 @@ Widgets
 
  * Change icon to black and white
 
-#### Ecrnote
+#### Evernote
 
 * Preferences
   * Evernote Helper (check the following)
@@ -335,9 +339,14 @@ Widgets
 
 #### Sizeup
 
-* Set Screen Edge Margins to 25px
-* Set Partition to 25px
-* Center window and resize to relative: 85px x 65px
+* Preferences
+	* General
+		* Uncheck "Show SizeUp in Menu Bar"
+	* Shortcuts
+		* Center window and resize to relative: 85px x 65px
+	* Margins
+		* Set Screen Edge Margins to 25px
+		* Set Partition to 25px
 
 #### Sound Studio
 
