@@ -164,6 +164,12 @@ Widgets
 	* General
 		* Check the "Show Script menu in menu bar" checkbox
 
+#### Butler
+
+* Preferences
+	* Advanced
+		* Bartender Bar Hot Key: Option+Command+b
+
 #### Caffeine
 
 * Setup Caffeine to start on login
