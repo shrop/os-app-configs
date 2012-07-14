@@ -55,6 +55,7 @@ MindNode Pro
 Miro Video Converter  
 MongoHub  
 NeoOffice  
+NoisyTyper  
 NPM  
 Numbers  
 OmniFocus  
