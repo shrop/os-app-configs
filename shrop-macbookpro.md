@@ -19,9 +19,11 @@ CodeKit
 CoRD  
 CSS3ToolKit  
 Disk Inventory X  
+Doxie  
 Dropbox  
 DropKey  
 Evernote  
+Eye-Fi  
 FireFox  
 Fish Shell  
 Flip4Mac  
@@ -120,6 +122,9 @@ Widgets
     * Add Google Apps account for mail, calendars and iChat
 * Mission Control
     * Uncheck "Automatically rearrange based on most recent use"
+* Users & Groups
+	* Mobile Account Settings
+		* Uncheck "Show status in menu bar"
 
 #### 1Password
 
