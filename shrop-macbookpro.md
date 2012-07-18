@@ -78,7 +78,8 @@ TotalFinder
 Tower  
 Transmission  
 Transmit  
-Tweetbot   
+Tweetbot  
+VSee   
 VirtualBox  
 VirtualHostX  
 Viscosity  
