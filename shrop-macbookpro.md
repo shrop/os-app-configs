@@ -69,7 +69,6 @@ Reeder
 RVM  
 Secrets Prefs Pane  
 Sequel Pro  
-SizeUp  
 Skitch  
 Skype  
 Sound Studio  
@@ -79,11 +78,11 @@ TotalFinder
 Tower  
 Transmission  
 Transmit  
-Tweetbot  
-Twitterific  
+Tweetbot   
 VirtualBox  
 VirtualHostX  
 Viscosity  
+Window Tidy  
 Xcode  
 Yammer  
 
@@ -349,17 +348,6 @@ Widgets
         * Check "Show Develop menu in menu bar"
 * Install SafariOmnibar - https://github.com/rs/SafariOmnibar
 
-#### Sizeup
-
-* Preferences
-	* General
-		* Uncheck "Show SizeUp in Menu Bar"
-	* Shortcuts
-		* Center window and resize to relative: 85px x 65px
-	* Margins
-		* Set Screen Edge Margins to 25px
-		* Set Partition to 25px
-
 #### Sound Studio
 
 * Set color preset to "Green on black"
@@ -389,16 +377,6 @@ Widgets
     * Set "Windows open with" to the home folder
     * Set Sublime Edit 2 to open all files
 
-#### Twitterific
-
-* Setup accounts: bestofmrsshrop, chardug, drupalcampclt, rockyriver and shrop
-* Show Growl notifications for mentions and messages
-* set Appearance to "Light"
-* Keep Timeline Scrolled to Top
-* Applications Icons: Do not show in the Menubar
-* Turn off "Play Notification Sound"
-* Bookmarking: Instapaper
-
 #### VirtualHostX
 
 * Preferences
@@ -413,3 +391,14 @@ Widgets
     * General
         * Set Viscosity to start at login
         * Check for updates automatically
+
+#### Window Tidy
+
+* Preferences
+    * Layouts
+        * Add the following layouts:
+            * Three Column Left
+            * Three Column Center
+            * Three Column Right
+    * Quick Layout
+        * Launch Windy Tidy at login
