@@ -1,7 +1,6 @@
 # shrop-macbookpro
 ### Applications
 1Password  
-Air Display  
 Alfred  
 Amazon MP3 Downloader  
 AppShopper.com Importer  
@@ -18,6 +17,7 @@ Coda
 CodeKit  
 CoRD  
 CSS3ToolKit  
+Day One  
 Disk Inventory X  
 Doxie  
 Dropbox  
@@ -41,6 +41,7 @@ Handbrake
 HardwareGrowler  
 Harvest  
 Hazel  
+Hiss  
 Homebrew  
 ImageOptim  
 iMovie  
@@ -48,14 +49,13 @@ iPhoto
 iStat Menus  
 iStumbler  
 iTerm  
+JewelryBox  
 Lingon 3  
-MacGDBp  
 Marked  
 MindNode Pro  
 Miro Video Converter  
 MongoHub  
 NeoOffice  
-NoisyTyper  
 NPM  
 Numbers  
 OmniFocus  
@@ -79,7 +79,6 @@ Tower
 Transmission  
 Transmit  
 Tweetbot  
-VSee   
 VirtualBox  
 VirtualHostX  
 Viscosity  
@@ -106,6 +105,10 @@ Widgets
 * Turn off screen-savers
 * Set "Energy Saver" to defaults
 * Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
+* Keyboard
+	* Keyboard Shortcuts
+		* Mission Contol
+			* Set "Show Notification Center" to keystroke Shift+Control+n
 * Turn off discoverable mode in Bluetooth settings
 * Turn off "Show Bluetooth status in the menu bar"
 * Turn on "Secondary click" in "Mouse" settings
@@ -200,6 +203,8 @@ Widgets
 * Change Appearance style to "Fiat"
 * Show event bubble option
      * ...only if Colloquy is in the background
+* Alerts
+	* Mute all notification sounds
 
 #### Dropbox
 
@@ -289,6 +294,8 @@ Widgets
 * Add Tomorrow theme and set as default
 * Prefernces
     * General
+        * Uncheck "Confirm closing multiple sessions"
+        * Uncheck "Confirm 'Quit iTerm2 (Command-Q)' command"
         * Use Lion-style Fullscreen windows
     * Appearance
         * Dim inactive split panes
@@ -297,12 +304,11 @@ Widgets
 
 * Remove the Apple Mail rule
 * Set accounts to be checked every hour for mail rules processing
-* Turn off RSS check for updates
-* Delete the "Apple News" RSS feed in the mailboxes listing
 * Turn off sounds for new mail and sending mail
-* Add All Mail/Archive folders to the Favorites Bar
+* Add All Mail/Archive and Notice folders to the Favorites Bar
 * Turn off junk mail filtering
 * Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
+* Set "Send new messages from:" to mdshrops@shropnet.net
 
 #### Marked
 
@@ -341,13 +347,10 @@ Widgets
     * Extensions
         * 1Password
         * AdBlock
-        * BetterSource
         * Evernote
         * Instafari
-        * Quickstyle
     * Advanced
         * Check "Show Develop menu in menu bar"
-* Install SafariOmnibar - https://github.com/rs/SafariOmnibar
 
 #### Sound Studio
 
