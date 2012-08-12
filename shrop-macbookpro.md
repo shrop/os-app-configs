@@ -69,6 +69,7 @@ Reeder
 RVM  
 Secrets Prefs Pane  
 Sequel Pro  
+Shush  
 Skitch  
 Skype  
 Sound Studio  
@@ -82,6 +83,7 @@ Tweetbot
 VirtualBox  
 VirtualHostX  
 Viscosity  
+WebEx  
 Window Tidy  
 Xcode  
 Yammer  
@@ -114,6 +116,9 @@ Widgets
 * Turn on "Secondary click" in "Mouse" settings
 * Desktop & Screen Saver
     * Set screen saver to never start  
+* Notifications
+	* Growl
+		* Show 20 Recent items (5 is the default)
 * TouchPad settings:
     * Turn on "Secondary click"
     * Turn on "Three finger drag"
@@ -351,6 +356,12 @@ Widgets
         * Instafari
     * Advanced
         * Check "Show Develop menu in menu bar"
+
+#### Shush
+
+* Preferences
+    * Cues
+        * Uncheck "Play audio cues"  
 
 #### Sound Studio
 
