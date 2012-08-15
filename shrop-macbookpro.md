@@ -36,7 +36,6 @@ Google Chrome
 Google Drive  
 Gradient  
 Gabble  
-Growl  
 Handbrake  
 HardwareGrowler  
 Harvest  
