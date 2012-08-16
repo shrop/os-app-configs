@@ -1,4 +1,5 @@
 # shrop-macbookpro
+
 ### Applications
 1Password  
 Alfred  
@@ -8,24 +9,21 @@ Art Text 2
 Bartender  
 Byword  
 Caffeine  
+Carbon Copy Cloner  (needs configuration)
 CheatSheet  
-ClamXav  
 Cobook  
 Colloquy  
 ColorSchemer Studio  
-Coda  
 CodeKit  
 CoRD  
+CrashPlan Pro  
 CSS3ToolKit  
 Day One  
 Disk Inventory X  
 Doxie  
 Dropbox  
-DropKey  
 Evernote  
-Eye-Fi  
 FireFox  
-Fish Shell  
 Flip4Mac  
 Fluid  
 Flux  
@@ -35,8 +33,8 @@ Google Voice And Video Setup
 Google Chrome  
 Google Drive  
 Gradient  
+Growl  
 Gabble  
-Handbrake  
 HardwareGrowler  
 Harvest  
 Hazel  
@@ -46,7 +44,6 @@ ImageOptim
 iMovie  
 iPhoto
 iStat Menus  
-iStumbler  
 iTerm  
 JewelryBox  
 Lingon 3  
@@ -54,9 +51,9 @@ Marked
 MindNode Pro  
 Miro Video Converter  
 MongoHub  
-NeoOffice  
-NPM  
+-NPM  
 Numbers  
+oh-my-zsh  
 OmniFocus  
 OmniGraffle Pro  
 Pages  
@@ -69,350 +66,416 @@ RVM
 Secrets Prefs Pane  
 Sequel Pro  
 Shush  
+Sidekick  
 Skitch  
 Skype  
 Sound Studio  
 SpriteRight  
 Sublime Text 2  
+TextExpander
 TotalFinder  
 Tower  
 Transmission  
 Transmit  
 Tweetbot  
-VirtualBox  
 VirtualHostX  
 Viscosity  
-WebEx  
+VMware Fusion  
 Window Tidy  
 Xcode  
-Yammer  
 
-Widgets  
-* STocks  
+#### Widgets  
+* Stocks  
 * Weather  
+	* Settings
+		* Set “City, State, or ZIP code” to Concord, NC  
+		* Check “Include lows in 6-day forecast”  
 * Clock  
+	* Settings  
+		* Set city to New York  
 * Delivery Status  
+	* Settings
+		* General
+			* Check “Display notifications with Growl”
+			* Check “Send notifications to Delivery Status Touch”
+		* Sync
+			* Login to junecloud.com
 
 ### Configurations
 
 #### General configurations
-
-* Add Dropbox folder to the Dock
+* Name boot volume in Finder
+* Remove all apps from the dock. Alfred FTW!
+* Setup monitor arrangement for home and work
 
 #### System Preferences
-
-* Set the "Computer Name" and "Local Hostname" in "Sharing"
-* Turn on "Dock hiding"
-* Turn off screen-savers
-* Set "Energy Saver" to defaults
-* Under "Security & Privacy/General" set password to be required immediately when screensaver or sleep begins
-* Keyboard
-	* Keyboard Shortcuts
-		* Mission Contol
-			* Set "Show Notification Center" to keystroke Shift+Control+n
-* Turn off discoverable mode in Bluetooth settings
-* Turn off "Show Bluetooth status in the menu bar"
-* Turn on "Secondary click" in "Mouse" settings
-* Desktop & Screen Saver
-    * Set screen saver to never start  
-* Notifications
+* #### Desktop & Screen Saver
+	* Desktop
+		* Set your wallpaper
+	* Screen Saver
+		* Set screen saver to never start  
+* #### Dock
+	* Check “Automatically hide and show the Docs
+* #### Mission Control
+	* Uncheck “Automatically rearrange spaces based on most recent use
+* #### Security & Privacy
+	* Firewall
+		* Turn it on!
+* #### Spotlight
+	* Uncheck “Spotlight menu keyboard shortcut”
+	* Uncheck “Spotlight window keyboard shortcut”
+* #### Notifications
 	* Growl
 		* Show 20 Recent items (5 is the default)
-* TouchPad settings:
-    * Turn on "Secondary click"
-    * Turn on "Three finger drag"
-    * Turn on "App Exposé"
-* Mail, Contacts and Calendars
-    * Add gmail account Google Chat to iChat
-    * Add Google Apps account Google Chat to iChat
+* #### Energy Saver
+	* Leave all at defaults
+* #### Keyboard
+	* Keyboard Shortcuts
+		* Mission Control
+			* Set "Show Notification Center" to keystroke Shift+Control+n
+* ####Trackpad
+	* Point & Click
+		* Check “Tap to click”
+    * More Gestures
+		* Check "App Exposé"
+* #### iCloud
+	* Login to iCloud
+		* Check “Mail”
+		* Check “Contacts”
+		* Check “Calendars & Reminders”
+		* Check “Notes”
+		* Check “Safari”
+		* Check “Photo Stream”
+		* Check “Documents & Data”
+		* Check “Find My Mac”
+* #### Mail, Contacts and Calendars
+    * Add gmail account Google Chat to Messages app
     * Add AIM account to iChat
-    * Add work email as an IMAP account
-    * Add Google Apps account for mail, calendars and iChat
-* Mission Control
-    * Uncheck "Automatically rearrange based on most recent use"
-* Users & Groups
-	* Mobile Account Settings
-		* Uncheck "Show status in menu bar"
+    * Add work email as an Exchange IMAP account
+    * Add Google Apps account for mail, calendars, and Messages app
+    * Add @shrop Twitter account
+    * Add mdshrops@shropnet.net Vimeo account
+    * Add mdshrops@yahoo.com Flickr account
+* #### Bluetooth
+	* Turn of	how Bluetooth status in the menu bar"
+	* Turn on "Secondary click" in "Mouse" settings
+* #### Sharing
+	* Set the "Computer Name" and "Local Hostname"
+* #### Users & Groups
+	* Login Options
+		* Set “Display login window as” to “Name and password”
+		* Uncheck “Show password hints”
+* #### Date & Time
+	* Clock
+		* Uncheck “Show date and time in menu bar”
 
 #### 1Password
-
 * Point to database in Dropbox
-* Install all browser extensions
+* Follow the getting started section under “Browser Extensions”
+	* Click “Enable Helper and Continue”
+	* Install all browser extensions necessary
 
 #### Alfred
+* Preferences
+	* Advanced
+		* Syncing
+			* Point “Settings Folder” to the Alfred folder in Dropbox
+	* General
+		* General (tab)
+			* Set the “Alfred hotkey” to Command+Space
+	* Features
+		* Default Results
+			* Check “Folders”
+		* Clipboard
+			* Clipboard History: Persist for 24 hours
+			* Turn on "Auto Paste on return"
+		* System Commands
+			* Check on “Eject" and select "Local Mounted Volumes"
+		* Terminal / Shell
+			* Application: iTerm2
+			* Prefix: $
+	* Appearance
+		* Theme
+			* Set “How it looks” to “OS X Lion”
+		* Options
+			* Check “Hide hat on Alfred window”
+			* Check “Hide menu bar icon”
 
-* Setup Dropbox sync
-* Hide hat on Alfred window
-* Hide menu bar icon
-* Default Results
-    * Extras: Folders
-    * Search Scopes:
-        * /Applications
-        * /Developer/Applications
-        * /Library/PreferencePanes
-        * /System/Library/CoreServices
-        * /System/Library/PreferencePanes
-* Setup Command + Spacebar for action and turn this key combo off for Spotlight
-* Clipboard
-    * Clipboard History: Persist for 24 hours
-    * Turn on "Auto Paste on return"
-* AddressBook
-    * Turn on "Open Contacts in Alfred"
-    * Phone: "Pass to URL Scheme:" imessage:{query}
-* System Commands
-    * Turn on "eject" for "Local Mounted Volumes"
-* Terminal / Shell
-    * Application: iTerm2
-    * Prefix: $
-* Set the theme to "Lion" in the Appearance preferences area
-
-#### AppleScript Editor
-
+#### Bartender
 * Preferences
 	* General
-		* Check the "Show Script menu in menu bar" checkbox
-
-#### Butler
-
-* Preferences
+		* Check “Launch Bartender at Login”
+	* Menu Items
+		* Configure as you wish!
 	* Advanced
 		* Bartender Bar Hot Key: Option+Command+b
 
 #### Caffeine
+* "Welcome to Caffeine" window
+	* Check “Automatically start Caffeine at login”
+	* Uncheck “Show this message when starting Caffeine”
 
-* Setup Caffeine to start on login
-
-#### ClamXav
-
-* Setup daily updates (10:45am weekdays) and scans (11:00am weekdays)
-* Setup daily scan to scan ~
-* Setup watch folders ~/Desktop and ~/Downloads
-* Turn off sounds
+#### Calendar
+* Check which calendars to show
+    * Don't show iCloud "Home" and "Work"
 
 #### Cobook
-
 * Set Cobook to be the default addressbook
 * Connect to Twitter to sync contact profile pics
 
-#### Coda
-
-* Preferences
-    * General
-        * Set sidebar to the left
-    * Editor
-        * Set PHP/HTML to be the default document type
-
 #### Colloquy
-
-* Change Appearance style to "Fiat"
-* Show event bubble option
-     * ...only if Colloquy is in the background
+* Setup connections
+	* albus.shropnet.net
+		* Nickname: shrop
+		* Chat Server: albus.shropnet.net
+		* Check “Remember this connection”
+		* Chat Server Port: 9000
+		* Check “SSL Connection” (Check “SASL” if checkbox is available)
+		* Username: shrop
+		* Completed “Server Password”
+		* Real Name: shrop
+* Preferences
+	* Appearance
+		* Set “Default Style” to “Fiat”
+		* Set “Font Family” to Helvetica
+		* Set the “Base Font Size” to 12
 * Alerts
-	* Mute all notification sounds
+	* Check “Mute all notification sounds”
 
 #### Dropbox
-
- * Change icon to black and white
+* Preferences
+	* General
+		* Check “Use black and white menu bar icons”
+		* Uncheck “Enable Dropbox camera import”
 
 #### Evernote
-
 * Preferences
-  * Evernote Helper (check the following)
-     * Keep Evernote Helper running in the background when I quit Evernote
-     * Show Elephant in Menubar
-     * Start the Evernote Helper when I log in to my computer
-  * After clipping
-     * Uncheck "Bring the clip to the front"
-     * Uncheck "Bounce the dock icon once"
+	* After clipping
+		* Uncheck "Bring the clip to the front"
+		* Uncheck "Bounce the dock icon once"
 
 #### Finder
-
-* Show these items on the desktop: all
-* New Finder windows show: ~/Dropbox
-* General
-    * New Finder windows show: Home directory
-* Sidebar
-    * Check all
-* Advanced
-    * Uncheck "Show warnings before changing an extension"
-    * Uncheck "Show warnings before emptying the Trash"
-* When performing a search: Search the Current Folder
+* Preferences
+	* General
+		* Check all checkboxes under “Show these items on the desktop”
+		* New Finder windows show: Home directory
+	* Sidebar
+		* Check all
+	* Advanced
+		* Uncheck "Show warnings before changing an extension"
+		* Uncheck "Show warnings before emptying the Trash"
+		* When performing a search: Search the Current Folder
 * TotalFinder:
     * Tweaks
-        * Check "Hide icon in Menu Bar"
-        * Check "Allow path copying from Context Menus"
+		* File Browser
+			* Check “Show System Files”
+		* Menu and Dock
+			* Check "Hide icon in Menu Bar"
+
+### Flux
+* Preferences
+	* Allow Flux to access my location
+	* Set “Transition” to “Slow”d
 
 #### Go2Shell
-
 * Add to Finder
 * Set iTerm2 to open with Go2Shell:
 	* $ open -a Go2Shell --args config
 
 #### Google Chrome
-
 * Sign in to to my Google Apps account for syncing
 
 #### Growl
-
-* Set Growl to launch at login in the Growl preferences
-* Uncheck "Rollup automatically displays"
-* Set Growl to send notifications to rollup after 600 seconds of inactivity
+* Keep Growl closed while using Hiss
 
 #### Hazel
+* System Preferences
+	* Hazel
+		* Folders
+			* Downloads
+				* Check “Throw away: Duplicate files”
+				* Check “Throw away: Incomplete downloads after 1 week”
+		* Trash
+			* Check “Delete files sitting in the Trash for more than 1 week”
+			* Check “Enable App Sweep
+			* Check “Enable multi-user sweep”
 
-* Set up folder "Downloads" to throw away duplicate files and incomplete downloads after 1 week. Load the same rule sets and select "Old Files" for Downloads. Set the "Old Files" rule to set the label after 1 week.
-   * Make sure the Downloads folder is in the Dock
-* Trash: Delete files sitting in Trash for more than 1 day
-* Enable App Sweep and multi-user sweep
+#### Hiss
+* General
+	* Check “Start At Login”
+	* Uncheck “Show in Menu Bar”
 
 #### Homebrew
-
 * Restore /usr/local from backup for settings and Formulas installed
 
-#### iCal
-
-* Check which calendars to show
-    * Don't show iCloud "Home" and "Work"
-
-#### iCloud
-
-* Sync
-    * Mail & Notes
-    * Contacts
-    * Bookmarks
-    * Photo Stream
-    * Documents & Data
-    * Find My Mac
-
 #### iStats Menu
-
 * Use black graphs and icons in menubar
 * CPU: Show multiple CPU cores as one item
 * Set combined the following order of items
     * Menubar Items: CPU
-    * Dropdown Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
-* Turn on the date/time display and set the red date icon and show time as hh:mm AM/PM
+    * Drop down Items: CPU, Memory, Disk Usage, Activity, Network, Battery and Sensors
+* Turn on the date/time display and set the red date icon and show time as h:mm AM/PM
+* Move the date/time display to the far right of the menu bar
 
 #### iTerm
-
-* Add Tomorrow theme and set as default
-* Prefernces
+* Preferences
     * General
         * Uncheck "Confirm closing multiple sessions"
         * Uncheck "Confirm 'Quit iTerm2 (Command-Q)' command"
-        * Use Lion-style Fullscreen windows
-    * Appearance
-        * Dim inactive split panes
+        * Uncheck "Use Lion-style Fullscreen windows"
+
+#### JewelryBox
+* Preferences
+	* Check “Use Black & White Menu Icon*”
 
 #### Mail
-
-* Remove the Apple Mail rule
-* Set accounts to be checked every hour for mail rules processing
-* Turn off sounds for new mail and sending mail
 * Add All Mail/Archive and Notice folders to the Favorites Bar
-* Turn off junk mail filtering
-* Setup stanrdard filters by copying the filters plist to ~/Library/Mail/V2/maildata/
-* Set "Send new messages from:" to mdshrops@shropnet.net
-
-#### Marked
-
-* Marked tools: http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles
-        * Added Sublime Text 2 and Services
+* Preferences
+	* General
+		* Set “Check for new messages” to “Every hour”
+		* Set “New messages sound” to “None”
+		* Uncheck “Play sounds for other mail actions”
+	* Junk Mail
+		* Uncheck “Enable junk mail filtering”
+	* Rules
+		* Activate rules
 
 #### NPM
-
 * $ curl http://npmjs.org/install.sh | sh
 
 #### OmniFocus
-
-* Setup OmniSync Server
-* Turn off "Due Soon" from displaying in the dock icon
-* Set Mail clippings to trigger to the inbox via Ctrl+Command+M. Make sure to install the Clip-O-Tron 3000.
 * Add Due (all) perspective to the toolbar following "Due"
+* Preferences
+	* Data
+		* Uncheck “Due Soon” for “Show item counts” in the “Dates & Times” section
+	* Clippings
+		* Set the “Clippings Shortcut” to Control+Command+M
+		* Set “Copy Clippings to” to “Inbox”
+		* Install the OmniFocus Clip-O-Tron 3000
+		* Note: May need to execute the following in Terminal to allow Clip-O-Tron 3000 to work: defaults write com.apple.mail EnableBundles -bool YES
+			* Reference: [http://www.omnigroup.com/support/omnifocus-mtn-lion](http://www.omnigroup.com/support/omnifocus-mtn-lion)
+	* Sync
+		* Setup Omni Sync
 
 #### QuickCal
-
-* Setup default calendar to "Mark Shropshire (mdshrops@shropnet.net)"
-
-#### Ruby Gem Installs
-
-* Vagrant
-  * Install within an RVM Ruby 1.9.3 setup
+* Preferences
+	* General
+		* Check “Start at Login”
+	* Calendar/Lists
+		* Default Calendar: Mark Shropshire (mdshrops@shropnet.net calendar)
+	* Advanced
+		* Check “Stealth mode (no icons)”
 
 #### Safari
-
 * Preferences
     * General
         * Setup home page to "topsites:"
         * Uncheck "Open 'safe' files after downloading"
     * Tabs
-        * Set Tabs top open pages instead of windows "Automatically"
         * Check "When a new tab or window opens, make it active"
+	* AutoFill
+		* Uncheck “User names and passwords”
+	* Security
+		* Uncheck “Block pop-up windows”
     * Extensions
         * 1Password
         * AdBlock
+        * BetterSource
+        * BuiltWith
         * Evernote
+        * Firebug Lite for Safari
         * Instafari
+			* Completed email/username and password
+			* Select “Command+Option+R” for the “Keyboard Shortcut”
+		* Make it Short
+			* Change 
+		* MeasureIt
+        * Ultimate Status Bar
+        * YSlow
     * Advanced
         * Check "Show Develop menu in menu bar"
 
 #### Shush
-
 * Preferences
+	* General
+		* Uncheck “Use colored menu bar icon”
     * Cues
-        * Uncheck "Play audio cues"  
+        * Uncheck "Play audio cues" 
 
 #### Sound Studio
-
-* Set color preset to "Green on black"
-* Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip
-* Set Sound Studio to launch in 32bit mode
+* Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip. This allows saving MP3 files.
+* Preferences
+	* Set color preset to "Green on black"
 
 #### Sublime Text 2
-
 * Restore ~/Library/Application Support/Sublime Text 2 from backup for settings and packages installed
 
-#### Terminal
-
-* Add Tomorrow theme and set as default
+#### TextExpander
+* Preferences
+	* Appearance
+		* Check “Hide TextExpander in Dock”
+	* Sync
+		* Synchronization method: Dropbox 
 
 #### Tower
-
 * Install the Command Line Tool under the Integration section of the Tower menu
 * Preferences
-    * Set FileMerge as the default diff/merge tool
-    * Add a space to the toolbar and the open in Finder and open in Terminal buttons to the toolbar
-    * Set the default repo folder
-    * Set the default email address for repos
+	* Git Config
+		* Name: Mark Shropshire
+		* Email: marks@knowclassic.com
+		* Preferred Diff Tool: FileMerge
+		* Preferred Merge Toos: FileMerge
+	* Hosting
+		* Github
+			* Set the username and password for your github account
 
 #### Transmit
-
 * Preferences
-    * Set "Windows open with" to the home folder
-    * Set Sublime Edit 2 to open all files
+	* General
+		* Set "Windows open with" to the home folder
+	* Files
+		* Custom Editors: Set all extensions to open with Sublime Text 2
+
+#### TweetBot
+* Setup the following accounts:
+	* @shrop
+* Preferences
+	* General
+		* Check “Pin timeline to top when at top”
+		* Uncheck “Show Menu Bar Icon”
+	* Notifications
+		* Set “Mentions” to “All”
+		* Check all notifications
 
 #### VirtualHostX
-
 * Preferences
-    * Sort hosts: Alphabetically
-    * Default Web Server: MAMP
+	* General
+		* Sort hosts: Alphabetically
 
 #### Viscosity
-
 * Preferences
     * Connections
-        * Import the opvn configuration file form our OpenVPN server
+        * Import the openvpn configuration file form our OpenVPN server
     * General
         * Set Viscosity to start at login
         * Check for updates automatically
 
 #### Window Tidy
-
 * Preferences
     * Layouts
         * Add the following layouts:
             * Three Column Left
             * Three Column Center
             * Three Column Right
-    * Quick Layout
-        * Launch Windy Tidy at login
+		* Set “Centre” layout to 1280x1024
+        * Check “Launch Windy Tidy at login”
+
+#### Xcode
+* Run updates when Xcode is first launched
+* Preferences
+	* Downloads
+		* Components
+			* Check “Check for and install updates automatically”
+			* Install the following:
+				* iOS 5.0 Simulator
+				* Command Line Tools
