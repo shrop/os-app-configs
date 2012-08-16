@@ -51,7 +51,7 @@ Marked
 MindNode Pro  
 Miro Video Converter  
 MongoHub  
--NPM  
+NPM  
 Numbers  
 oh-my-zsh  
 OmniFocus  
@@ -341,7 +341,7 @@ Xcode
 		* Activate rules
 
 #### NPM
-* $ curl http://npmjs.org/install.sh | sh
+* $ curl https://npmjs.org/install.sh | sh
 
 #### OmniFocus
 * Add Due (all) perspective to the toolbar following "Due"
@@ -433,6 +433,7 @@ Xcode
 * Preferences
 	* General
 		* Set "Windows open with" to the home folder
+		* Uncheck “Show Transmit Disk in menu bar”
 	* Files
 		* Custom Editors: Set all extensions to open with Sublime Text 2
 
