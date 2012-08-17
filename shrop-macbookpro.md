@@ -125,6 +125,10 @@ Xcode
 	* Uncheck “Spotlight menu keyboard shortcut”
 	* Uncheck “Spotlight window keyboard shortcut”
 * #### Notifications
+	* Twitter
+		* Uncheck “Show in Notification Center”
+		* Uncheck “Badge app icon”
+		* Uncheck “Play sound when receiving notifications”
 	* Growl
 		* Show 20 Recent items (5 is the default)
 * #### Energy Saver
@@ -344,7 +348,8 @@ Xcode
 * $ curl https://npmjs.org/install.sh | sh
 
 #### OmniFocus
-* Add Due (all) perspective to the toolbar following "Due"
+* Add "Due (all)" perspective to the toolbar following "Due"
+* Add “Due Date” column to date based perspectives. If you add it to “Due (all)”, it will be available in other perspectives.
 * Preferences
 	* Data
 		* Uncheck “Due Soon” for “Show item counts” in the “Dates & Times” section
@@ -458,8 +463,7 @@ Xcode
     * Connections
         * Import the openvpn configuration file form our OpenVPN server
     * General
-        * Set Viscosity to start at login
-        * Check for updates automatically
+        * Check “Start Viscosity at login”
 
 #### Window Tidy
 * Preferences
