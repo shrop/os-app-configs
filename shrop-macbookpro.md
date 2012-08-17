@@ -2,6 +2,7 @@
 
 ### Applications
 1Password  
+Adium  
 Alfred  
 Amazon MP3 Downloader  
 AppShopper.com Importer  
@@ -104,6 +105,7 @@ Xcode
 ### Configurations
 
 #### General configurations
+* Setup Filevault
 * Name boot volume in Finder
 * Remove all apps from the dock. Alfred FTW!
 * Setup monitor arrangement for home and work
@@ -121,6 +123,9 @@ Xcode
 * #### Security & Privacy
 	* Firewall
 		* Turn it on!
+	* Privacy
+		* Click the “Advanced...” button
+			* Check “Disable remote control infrared receiver”
 * #### Spotlight
 	* Uncheck “Spotlight menu keyboard shortcut”
 	* Uncheck “Spotlight window keyboard shortcut”
@@ -179,6 +184,15 @@ Xcode
 	* Click “Enable Helper and Continue”
 	* Install all browser extensions necessary
 
+#### Adium
+* Preferences
+	* Accounts
+		* Account
+			* mdshrops@shropnet.net
+			* Encryption: Force encryption and refuse plaintext
+	* General
+		* Uncheck “Log messages”
+
 #### Alfred
 * Preferences
 	* Advanced
@@ -218,6 +232,13 @@ Xcode
 * "Welcome to Caffeine" window
 	* Check “Automatically start Caffeine at login”
 	* Uncheck “Show this message when starting Caffeine”
+
+#### Carbon Copy Cloner
+* Disk Center
+	* Add a "Recovery HD" partition to the backup drive
+	* Encrypt the backup drive
+* Perform full backup clone of the system drive
+* Schedule incremental daily backups at 12pm
 
 #### Calendar
 * Check which calendars to show
@@ -349,7 +370,9 @@ Xcode
 
 #### OmniFocus
 * Add "Due (all)" perspective to the toolbar following "Due"
-* Add “Due Date” column to date based perspectives. If you add it to “Due (all)”, it will be available in other perspectives.
+* Add “Due Date” column to date based perspectives. 
+	* Inbox
+	* Due (all)
 * Preferences
 	* Data
 		* Uncheck “Due Soon” for “Show item counts” in the “Dates & Times” section
