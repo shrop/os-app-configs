@@ -9,7 +9,7 @@ Art Text 2
 Bartender  
 Byword  
 Caffeine  
-Carbon Copy Cloner  (needs configuration)
+Carbon Copy Cloner  
 CheatSheet  
 Cobook  
 Colloquy  
