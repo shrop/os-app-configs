@@ -470,6 +470,7 @@ Xcode
 	* @shrop
 * Preferences
 	* General
+		* Set “Display Name:” to  “Username”
 		* Check “Pin timeline to top when at top”
 		* Uncheck “Show Menu Bar Icon”
 	* Notifications
