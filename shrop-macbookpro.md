@@ -434,6 +434,7 @@ Xcode
 #### Shush
 * Preferences
 	* General
+		* Check “Start Shush at login”
 		* Uncheck “Use colored menu bar icon”
     * Cues
         * Uncheck "Play audio cues" 
