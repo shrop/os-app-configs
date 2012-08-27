@@ -445,7 +445,7 @@ Xcode
 		* Uncheck “Show SizeUp in Menu Bar”
 		* Check “Automatically Check for Updates”
 	* Shortcuts
-		* Set “Relative to Screen Size” to 70% width and 80% height
+		* Set “Relative to Screen Size” to 70% width and 90% height
 	* Margins
 		* Set “Screen Edge Margins” to 50px
 		* Set “Partition (Between Window) Margins" to 25px
