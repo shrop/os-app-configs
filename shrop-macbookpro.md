@@ -131,6 +131,7 @@ Xcode
 	* Uncheck “Spotlight window keyboard shortcut”
 * #### Notifications
 	* Twitter
+		* Set the “Twitter alert style:” to “None”
 		* Uncheck “Show in Notification Center”
 		* Uncheck “Badge app icon”
 		* Uncheck “Play sound when receiving notifications”
