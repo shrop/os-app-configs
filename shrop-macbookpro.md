@@ -447,7 +447,8 @@ Xcode
 	* Shortcuts
 		* Set “Relative to Screen Size” to 70% width and 80% height
 	* Margins
-		* Set “Screen Edge Margins” and "Partition (Between Window) Margins" to 50px
+		* Set “Screen Edge Margins” to 50px
+		* Set “Partition (Between Window) Margins" to 25px
 
 #### Sound Studio
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip. This allows saving MP3 files.
