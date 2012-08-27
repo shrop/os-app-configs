@@ -68,6 +68,7 @@ Secrets Prefs Pane
 Sequel Pro  
 Shush  
 Sidekick  
+SizeUp  
 Skitch  
 Skype  
 Sound Studio  
@@ -82,7 +83,6 @@ Tweetbot
 VirtualHostX  
 Viscosity  
 VMware Fusion  
-Window Tidy  
 Xcode  
 
 #### Widgets  
@@ -297,6 +297,13 @@ Xcode
 		* Menu and Dock
 			* Check "Hide icon in Menu Bar"
 
+#### Firefox
+* Add extensions
+	* 1Password
+	* DrupalForFirebug
+	* Firebug
+	* FirePHP
+
 ### Flux
 * Preferences
 	* Allow Flux to access my location
@@ -388,6 +395,7 @@ Xcode
 #### QuickCal
 * Preferences
 	* General
+		* Disable the hotkey
 		* Check “Start at Login”
 	* Calendar/Lists
 		* Default Calendar: Mark Shropshire (mdshrops@shropnet.net calendar)
@@ -429,6 +437,17 @@ Xcode
 		* Uncheck “Use colored menu bar icon”
     * Cues
         * Uncheck "Play audio cues" 
+
+#### SizeUp
+* Preferences
+	* General
+		* Check “Start SizeUp Automatically at Login”
+		* Uncheck “Show SizeUp in Menu Bar”
+		* Check “Automatically Check for Updates”
+	* Shortcuts
+		* Set “Relative to Screen Size” to 70% width and 80% height
+	* Margins
+		* Set “Screen Edge Margins” and "Partition (Between Window) Margins" to 50px
 
 #### Sound Studio
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip. This allows saving MP3 files.
