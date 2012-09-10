@@ -8,11 +8,13 @@ Amazon MP3 Downloader
 AppShopper.com Importer  
 Art Text 2  
 Bartender  
+BreakTime  
 Byword  
 Caffeine  
 Carbon Copy Cloner  
 CheatSheet  
 Cobook  
+CodeBox  
 Colloquy  
 ColorSchemer Studio  
 CodeKit  
@@ -178,6 +180,9 @@ Xcode
 * #### Date & Time
 	* Clock
 		* Uncheck “Show date and time in menu bar”
+* #### Accessiblity
+	* Zoom
+		* Check “Use scroll gesture with modifier keys to zoom”
 
 #### 1Password
 * Point to database in Dropbox
@@ -229,6 +234,12 @@ Xcode
 	* Advanced
 		* Bartender Bar Hot Key: Option+Command+b
 
+#### BreakTime
+* Preferences
+	* Set “Time between breaks” to 18 minutes
+	* Check “Start at login”
+	* Uncheck “Show dock icon”
+
 #### Caffeine
 * "Welcome to Caffeine" window
 	* Check “Automatically start Caffeine at login”
@@ -242,12 +253,18 @@ Xcode
 * Schedule incremental daily backups at 12pm
 
 #### Calendar
-* Check which calendars to show
-    * Don't show iCloud "Home" and "Work"
+* Select the calendars to show
+* Preferences
+	* General
+		* Set “Default Calendar:” to “Mark Shropshire”
 
 #### Cobook
 * Set Cobook to be the default addressbook
 * Connect to Twitter to sync contact profile pics
+
+#### CodeBox
+* Preferences
+	* Check “Show CodeBox in menu bar”
 
 #### Colloquy
 * Setup connections
@@ -291,7 +308,7 @@ Xcode
 		* Uncheck "Show warnings before changing an extension"
 		* Uncheck "Show warnings before emptying the Trash"
 		* When performing a search: Search the Current Folder
-* TotalFinder:
+* TotalFinder
     * Tweaks
 		* File Browser
 			* Check “Show System Files”
@@ -312,7 +329,7 @@ Xcode
 
 #### Go2Shell
 * Add to Finder
-* Set iTerm2 to open with Go2Shell:
+* Set iTerm2 to open with Go2Shell
 	* $ open -a Go2Shell --args config
 
 #### Google Chrome
