@@ -180,6 +180,8 @@ Xcode
 * #### Date & Time
 	* Clock
 		* Uncheck “Show date and time in menu bar”
+*  #### Dictation & Speech
+	* Check “Speak selected text when the key is pressed”
 * #### Accessiblity
 	* Zoom
 		* Check “Use scroll gesture with modifier keys to zoom”
