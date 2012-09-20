@@ -40,8 +40,7 @@ Growl
 Gabble  
 HardwareGrowler  
 Harvest  
-Hazel  
-Hiss  
+Hazel   
 Homebrew  
 ImageOptim  
 iMovie  
@@ -338,7 +337,11 @@ Xcode
 * Sign in to to my Google Apps account for syncing
 
 #### Growl
-* Keep Growl closed while using Hiss
+* Preferences
+	* General
+		* “Start Growl at Login” ON
+		* “OS X Notifications” ON
+		* Set menubar visibility to “No icon visible”
 
 #### Hazel
 * System Preferences
@@ -470,6 +473,11 @@ Xcode
 	* Margins
 		* Set “Screen Edge Margins” to 50px
 		* Set “Partition (Between Window) Margins" to 25px
+
+#### Skitch
+* Preferences
+	* Sync
+		* Set “Use this Evernote Notebook for Skitch Notes” to Inbox
 
 #### Sound Studio
 * Install MP3 encoder: http://www.kjams.com/downloads/LAME.zip. This allows saving MP3 files.
