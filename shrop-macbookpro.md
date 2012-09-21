@@ -5,6 +5,7 @@
 Adium  
 Alfred  
 Amazon MP3 Downloader  
+Appetizer  
 AppShopper.com Importer  
 Art Text 2  
 Bartender  
@@ -225,6 +226,10 @@ Xcode
 		* Options
 			* Check “Hide hat on Alfred window”
 			* Check “Hide menu bar icon”
+
+#### Appetizer
+* Preferences
+	* Set “Global New Post Hotkey” to Ctrl+Option+Command+P
 
 #### Bartender
 * Preferences
