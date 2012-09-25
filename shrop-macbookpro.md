@@ -188,6 +188,13 @@ Xcode
 	* Zoom
 		* Check “Use scroll gesture with modifier keys to zoom”
 
+#### \#moApp  
+* Preferences
+	* General
+		* Check “Show @mentions in the Notification Center
+	* Advanced
+		* Set “New” to Ctrl+Options+Command+p
+
 #### 1Password
 * Point to database in Dropbox
 * Follow the getting started section under “Browser Extensions”
@@ -292,6 +299,12 @@ Xcode
 		* Set the “Base Font Size” to 12
 * Alerts
 	* Check “Mute all notification sounds”
+
+#### Day One
+* Install CLI tools so Alfred integration works
+	* http://dayoneapp.com/tools/
+* Install the chronic gem
+	* $ gem install chronic
 
 #### Dropbox
 * Preferences
