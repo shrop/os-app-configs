@@ -14,8 +14,11 @@ BreakTime
 Byword  
 Caffeine  
 Carbon Copy Cloner  
+ChangeMAC  
 CheatSheet  
+Cloud  
 Cobook  
+Coda  
 CodeBox  
 Colloquy  
 ColorSchemer Studio  
@@ -69,6 +72,7 @@ Rdio
 Reeder  
 RVM  
 Secrets Prefs Pane  
+SensioLabsDesktop  
 Sequel Pro  
 Shush  
 Sidekick  
@@ -87,6 +91,7 @@ Tweetbot
 VirtualHostX  
 Viscosity  
 VMware Fusion  
+Wedge  
 Xcode  
 
 #### Widgets  
@@ -273,6 +278,11 @@ Xcode
 	* General
 		* Set “Default Calendar:” to “Mark Shropshire”
 
+#### Cloud
+* Preferences
+	* General
+		* Check “Launch at login”
+
 #### Cobook
 * Set Cobook to be the default addressbook
 * Connect to Twitter to sync contact profile pics
@@ -362,6 +372,9 @@ Xcode
 		* “Start Growl at Login” ON
 		* “OS X Notifications” ON
 		* Set menubar visibility to “No icon visible”
+* HardwareGrowler Preferences
+	* Switch on “Start HardwareGrowler at Login”
+	* Icon: “No icon visible”
 
 #### Hazel
 * System Preferences
