@@ -376,6 +376,7 @@ Xcode
 
 #### Google Chrome
 * Sign in to to my Google Apps account for syncing
+* Grab the custom.css file in ~/Dropbox/Installs and save it to ~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets/
 
 #### Growl
 * Preferences
