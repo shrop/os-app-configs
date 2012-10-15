@@ -3,6 +3,7 @@
 ### Applications
 \#moApp  
 1Password  
+Adobe Application Manager  
 Adium  
 Alfred  
 Amazon MP3 Downloader  
@@ -16,6 +17,7 @@ Caffeine
 Carbon Copy Cloner  
 ChangeMAC  
 CheatSheet  
+Chocolat  
 Cloud  
 Cobook  
 Coda  
@@ -48,12 +50,14 @@ Harvest
 Hazel   
 Homebrew  
 ImageOptim  
+Illustrator  
 iMovie  
 iPhoto
 iStat Menus  
 iTerm  
 JewelryBox  
 Lingon 3  
+MacGDBp  
 Marked  
 Metion  
 MindNode Pro  
@@ -65,6 +69,7 @@ oh-my-zsh
 OmniFocus  
 OmniGraffle Pro  
 Pages  
+Photoshop  
 Picturesque  
 Pixelmator  
 QuickCal  
@@ -324,9 +329,15 @@ Xcode
 
 #### Evernote
 * Preferences
-	* After clipping
-		* Uncheck "Bring the clip to the front"
-		* Uncheck "Bounce the dock icon once"
+	* General
+		* Evernote Helper
+			* Check “Keep Evernote Helper running in the background when I quit Evernote
+			* Check “Show Elephant in Menubar”
+			* Check “Start the Evernote Helper when I log in to my computer”
+	* Clipping
+		* After clipping
+			* Uncheck "Bring the clip to the front"
+			* Uncheck "Bounce the dock icon once"
 
 #### Finder
 * Preferences
