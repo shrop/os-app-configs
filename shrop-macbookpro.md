@@ -73,6 +73,7 @@ Photoshop
 Picturesque  
 Pixelmator  
 QuickCal  
+RESTed  
 Rdio  
 Reeder  
 RVM  
