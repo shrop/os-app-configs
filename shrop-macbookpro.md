@@ -546,7 +546,7 @@ Xcode
 	* Git Config
 		* Name: Mark Shropshire
 		* Email: marks@knowclassic.com
-		* Preferred Diff Tool: FileMerge
+		* Preferred Diff Tool: Changes
 		* Preferred Merge Toos: FileMerge
 	* Hosting
 		* Github
