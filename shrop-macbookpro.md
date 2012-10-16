@@ -15,7 +15,7 @@ BreakTime
 Byword  
 Caffeine  
 Carbon Copy Cloner  
-ChangeMAC  
+Changes  
 CheatSheet  
 Chocolat  
 Cloud  
