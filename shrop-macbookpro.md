@@ -1,14 +1,10 @@
 # shrop-macbookpro
 
 ### Applications
-\#moApp  
 1Password  
 Adobe Application Manager  
-Adium  
 Alfred  
 Amazon MP3 Downloader  
-Appetizer  
-AppShopper.com Importer  
 Art Text 2  
 Bartender  
 BreakTime  
@@ -17,8 +13,6 @@ Caffeine
 Carbon Copy Cloner  
 Changes  
 CheatSheet  
-Chocolat  
-Cloud  
 Cobook  
 Coda  
 CodeBox  
@@ -59,7 +53,6 @@ JewelryBox
 Lingon 3  
 MacGDBp  
 Marked  
-Metion  
 MindNode Pro  
 Miro Video Converter  
 MongoHub  
