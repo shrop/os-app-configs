@@ -51,6 +51,7 @@ iPhoto
 iStat Menus  
 iTerm  
 JewelryBox  
+Keynote  
 Lingon 3  
 MacGDBp  
 Marked  
