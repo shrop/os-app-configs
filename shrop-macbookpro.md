@@ -57,6 +57,7 @@ MacGDBp
 Marked  
 MindNode Pro  
 Miro Video Converter  
+MoneyWell  
 MongoHub  
 NPM  
 Numbers  
