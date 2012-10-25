@@ -19,6 +19,7 @@ CodeBox
 Colloquy  
 ColorSchemer Studio  
 CodeKit  
+CodeRunner  
 CoRD  
 CrashPlan Pro  
 CSS3ToolKit  
@@ -76,6 +77,7 @@ Sequel Pro
 Shush  
 Sidekick  
 SizeUp  
+Sketch  
 Skitch  
 Skype  
 Sound Studio  
